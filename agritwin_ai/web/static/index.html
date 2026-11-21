@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101c18">
+  <meta name="description" content="AgriTwin agricultural supply-chain intelligence workspace powered by specialist AI agents.">
+  <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
+  <title>AgriTwin | Farm Intelligence Workspace</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar" id="sidebar">
+    <div class="brand-lockup"><div class="brand-mark" aria-hidden="true"><svg viewBox="0 0 40 40"><path d="M20 33V17"/><path d="M20 23C10.8 23 7 17.5 7 8c9.5 0 15 3.8 15 13"/><path d="M20 18C20 9.8 25.1 6 34 6c0 8.9-3.8 14-12 14"/><path d="M12 33h16"/></svg></div><div><div class="brand-name">AgriTwin<span>®</span></div><div class="brand-caption">INTELLIGENCE PLATFORM</div></div></div>
+    <div class="workspace-switcher"><div class="workspace-icon">N</div><div class="workspace-copy"><strong>Nashik Region</strong><span>Project workspace</span></div><svg viewBox="0 0 20 20"><path d="m6 8 4 4 4-4"/></svg></div>
+    <div class="nav-label">WORKSPACE</div>
+    <nav class="nav-list" aria-label="Main navigation">
+      <a class="nav-item active" href="#overview" data-nav="overview"><span class="nav-icon"><svg viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="8" rx="1.5"/><rect x="14" y="3" width="7" height="5" rx="1.5"/><rect x="14" y="12" width="7" height="9" rx="1.5"/><rect x="3" y="15" width="7" height="6" rx="1.5"/></svg></span>Overview</a>
+      <a class="nav-item" href="#workspace" data-nav="workspace"><span class="nav-icon"><svg viewBox="0 0 24 24"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5z"/><path d="M4 5.5v15M8 7h8M8 11h8"/></svg></span>AI workspace<span class="nav-pip"></span></a>
+      <a class="nav-item" href="#agents" data-nav="agents"><span class="nav-icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="5" r="2.5"/><circle cx="5" cy="18" r="2.5"/><circle cx="19" cy="18" r="2.5"/><path d="m10.7 7.2-4.4 8.5M13.3 7.2l4.4 8.5M7.8 18h8.4"/></svg></span>Agent network<span class="nav-count">4</span></a>
+    </nav>
+    <div class="nav-label section-gap">INTELLIGENCE</div>
+    <nav class="nav-list" aria-label="Intelligence navigation">
+      <a class="nav-item" href="#market-intelligence" data-nav="market-intelligence"><span class="nav-icon"><svg viewBox="0 0 24 24"><path d="M4 19V5M4 19h17"/><path d="m7 15 4-4 3 2 6-7"/><path d="M16 6h4v4"/></svg></span>Market command centre<span class="nav-pip market-nav-pip"></span></a>
+      <a class="nav-item" href="#agents" data-nav="agents"><span class="nav-icon"><svg viewBox="0 0 24 24"><path d="M12 3 20 7.5v9L12 21l-8-4.5v-9z"/><path d="m8 12 2.5 2.5L16 9"/></svg></span>System health</a>
+    </nav>
+    <div class="sidebar-spacer"></div>
+    <div class="sidebar-status"><div class="status-topline"><span class="status-dot" id="sidebarStatusDot"></span><span id="sidebarStatusText">Checking services</span></div><div class="status-subline">Local runtime · Private session</div><div class="status-progress"><span></span></div></div>
+    <div class="sidebar-bottom"><div class="user-avatar">AT</div><div class="user-meta"><strong>AgriTwin workspace</strong><span>Administrator</span></div><button class="icon-button subtle" id="settingsButton" title="System information" aria-label="System information"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="m19.4 15 .1.1a1.8 1.8 0 1 1-2.5 2.5l-.1-.1a1.8 1.8 0 0 0-3.1 1.3v.2a1.8 1.8 0 1 1-3.6 0v-.2a1.8 1.8 0 0 0-3.1-1.3l-.1.1a1.8 1.8 0 1 1-2.5-2.5l.1-.1a1.8 1.8 0 0 0-1.3-3.1h-.2a1.8 1.8 0 1 1 0-3.6h.2a1.8 1.8 0 0 0 1.3-3.1l-.1-.1a1.8 1.8 0 1 1 2.5-2.5l.1.1a1.8 1.8 0 0 0 3.1-1.3v-.2a1.8 1.8 0 1 1 3.6 0v.2a1.8 1.8 0 0 0 3.1 1.3l.1-.1a1.8 1.8 0 1 1 2.5 2.5l-.1.1a1.8 1.8 0 0 0 1.3 3.1h.2a1.8 1.8 0 1 1 0 3.6h-.2a1.8 1.8 0 0 0-1.3 3.1Z"/></svg></button></div>
+  </aside>
+
+  <main class="main-area" id="overview">
+    <header class="topbar"><div class="topbar-left"><button class="mobile-menu icon-button" id="mobileMenu" aria-label="Open navigation"><svg viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button><div class="breadcrumbs"><span>Workspace</span><i>/</i><strong>Overview</strong></div></div><div class="topbar-right"><div class="system-pill"><span class="status-dot" id="topStatusDot"></span><span id="topStatusText">System check</span></div><div class="topbar-divider"></div><div class="date-label" id="dateLabel">NASHIK · INDIA</div><div class="top-avatar">AT</div></div></header>
+
+    <div class="page-content">
+      <section class="hero-section">
+        <div class="hero-copy"><div class="eyebrow"><span class="eyebrow-line"></span> AGRICULTURAL SUPPLY-CHAIN INTELLIGENCE</div><h1>Every decision,<br><em>connected.</em></h1><p>One intelligence layer for crop readiness, climate signals, mandi prices and the movement of produce.</p><div class="hero-actions"><a class="primary-button" href="#workspace">Open AI workspace <svg viewBox="0 0 20 20"><path d="M4 10h11M10 5l5 5-5 5"/></svg></a><a class="text-link" href="#agents">Explore agent network <span>↗</span></a></div></div>
+        <div class="hero-art" aria-label="Connected agricultural agent network illustration"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="orbit orbit-three"></div><div class="network-line line-a"></div><div class="network-line line-b"></div><div class="network-line line-c"></div><div class="network-line line-d"></div><div class="network-node node-core"><div class="node-core-mark"><svg viewBox="0 0 40 40"><path d="M20 33V18M20 24C11 24 7 18 7 9c9 0 14 4 14 13M20 19C20 10 25 6 34 6c0 9-4 14-13 14"/></svg></div><span>AGRI<br>TWIN</span></div><div class="network-node node-harvest"><span class="node-symbol">✳</span><small>HARVEST</small></div><div class="network-node node-climate"><span class="node-symbol">◌</span><small>CLIMATE</small></div><div class="network-node node-market"><span class="node-symbol">⌁</span><small>MARKET</small></div><div class="network-node node-logistics"><span class="node-symbol">↗</span><small>LOGISTICS</small></div><div class="art-caption"><span class="pulse-ring"></span> MULTI-AGENT SYSTEM <b>·</b> 04 SPECIALISTS ACTIVE</div></div>
+        <div class="hero-index">01 <span>/</span> 03</div>
+      </section>
+
+      <section class="metrics-row" aria-label="Project metrics">
+        <article class="metric-card"><div class="metric-top"><span class="metric-label">ACTIVE SPECIALISTS</span><span class="metric-icon green-icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="5" r="2.5"/><circle cx="5" cy="18" r="2.5"/><circle cx="19" cy="18" r="2.5"/><path d="m10.7 7.2-4.4 8.5M13.3 7.2l4.4 8.5M7.8 18h8.4"/></svg></span></div><div class="metric-value">04<span class="metric-unit"> / 04</span></div><div class="metric-foot"><span class="tiny-dot"></span> All implemented agents loaded</div></article>
+        <article class="metric-card"><div class="metric-top"><span class="metric-label">MARKET RECORDS</span><span class="metric-icon gold-icon"><svg viewBox="0 0 24 24"><path d="M4 19V5M4 19h17"/><path d="m7 15 4-4 3 2 6-7"/></svg></span></div><div class="metric-value" id="marketRecordCount">—</div><div class="metric-foot" id="marketRecordFoot">OGD / AGMARKNET dataset</div></article>
+        <article class="metric-card"><div class="metric-top"><span class="metric-label">COMMODITY COVERAGE</span><span class="metric-icon blue-icon"><svg viewBox="0 0 24 24"><path d="M12 21s-8-4.5-8-11a4.5 4.5 0 0 1 8-2.8A4.5 4.5 0 0 1 20 10c0 6.5-8 11-8 11Z"/><path d="M12 8v10"/></svg></span></div><div class="metric-value" id="commodityCount">—</div><div class="metric-foot">Unique commodities in snapshot</div></article>
+        <article class="metric-card"><div class="metric-top"><span class="metric-label">MARKETS INDEXED</span><span class="metric-icon violet-icon"><svg viewBox="0 0 24 24"><path d="M3 10 12 3l9 7v10H3z"/><path d="M8 20v-7h8v7M8 10h.01M12 10h.01M16 10h.01"/></svg></span></div><div class="metric-value" id="marketCount">—</div><div class="metric-foot">Mandis represented in source data</div></article>
+      </section>
+
+      <section class="market-command-section" id="market-intelligence" aria-labelledby="marketCommandTitle">
+        <div class="section-heading market-command-heading">
+          <div><div class="eyebrow"><span class="eyebrow-line"></span> MARKET INTELLIGENCE · REGIONAL PRICE DISCOVERY</div><h2 id="marketCommandTitle">Market command centre</h2><p>Compare verified mandi observations, discover neighbouring markets when needed, follow new daily publications and inspect a backtested price outlook.</p></div>
+          <div class="market-feed-status" id="marketFeedStatus"><i></i><span id="marketFeedStatusText">Connecting to market feed</span></div>
+        </div>
+        <form class="market-watch-controls" id="marketWatchForm">
+          <label><span>COMMODITY</span><input id="marketCommodity" type="text" list="marketCommodityOptions" value="Onion" maxlength="80" placeholder="e.g. Onion, Tomato, Grapes"><datalist id="marketCommodityOptions"><option value="Onion"></option><option value="Tomato"></option><option value="Potato"></option><option value="Wheat"></option><option value="Rice"></option><option value="Soybean"></option><option value="Cotton"></option><option value="Grapes"></option><option value="Maize"></option><option value="Pomegranate"></option><option value="Banana"></option><option value="Green Chilli"></option></datalist></label>
+          <label class="market-region-field"><span>REGION / DISTRICT</span><input id="marketRegion" type="text" value="Nashik" maxlength="80" placeholder="e.g. Nashik, Maharashtra"></label>
+          <label><span>FORECAST HORIZON</span><select id="marketHorizon"><option value="7">7 days</option><option value="14">14 days</option><option value="30">30 days</option></select></label>
+          <button class="market-refresh-button" type="submit" id="marketRefreshButton"><svg viewBox="0 0 24 24"><path d="M20 7v5h-5M4 17v-5h5"/><path d="M5.6 9A7 7 0 0 1 18 6l2 6M4 12l2 6a7 7 0 0 0 12.4-3"/></svg> Refresh feed</button>
+        </form>
+        <div class="market-watch-subline"><span class="market-live-indicator"></span><span>Auto-check every 5 minutes</span><span class="market-subline-divider">·</span><span>Official public mandi observations update on the source's publication cycle, not as second-by-second trades</span></div>
+        <div class="market-watch-kpis">
+          <article class="market-watch-kpi market-best-kpi"><div class="market-kpi-label">BEST OBSERVED MODAL PRICE</div><div class="market-kpi-value" id="marketBestPrice">—</div><div class="market-kpi-meta" id="marketBestMeta">Waiting for regional prices</div></article>
+          <article class="market-watch-kpi"><div class="market-kpi-label">BEST AVAILABLE MANDI</div><div class="market-kpi-value market-kpi-text" id="marketBestMandi">—</div><div class="market-kpi-meta" id="marketBestDistrict">Region not resolved</div></article>
+          <article class="market-watch-kpi"><div class="market-kpi-label">MANDIS COMPARED</div><div class="market-kpi-value" id="marketMandiCount">—</div><div class="market-kpi-meta" id="marketRegionMatch">Requested region</div></article>
+          <article class="market-watch-kpi"><div class="market-kpi-label">LATEST OBSERVATION</div><div class="market-kpi-value market-kpi-text" id="marketLatestDate">—</div><div class="market-kpi-meta" id="marketSourceFreshness">Data freshness pending</div></article>
+        </div>
+        <div class="market-watch-main-grid">
+          <section class="market-panel market-chart-panel">
+            <div class="market-panel-heading"><div><span class="market-panel-overline">PRICE MOVEMENT</span><h3 id="marketChartTitle">Regional price trend</h3></div><span class="market-unit-label">₹ / quintal</span></div>
+            <div class="market-chart-wrap"><svg id="marketTrendChart" viewBox="0 0 760 250" role="img" aria-label="Observed mandi prices and forecast trend"></svg></div>
+            <div class="market-chart-legend"><span><i class="legend-observed"></i> Observed modal price</span><span><i class="legend-forecast"></i> Model outlook</span><span class="market-chart-model" id="marketModelLabel">Forecast model pending</span></div>
+          </section>
+          <section class="market-panel market-outlook-panel">
+            <div class="market-panel-heading"><div><span class="market-panel-overline">MODEL OUTLOOK</span><h3>Price forecast</h3></div><span class="forecast-tag" id="marketConfidenceTag">PENDING</span></div>
+            <div class="forecast-hero"><span id="marketForecastPrice">—</span><small id="marketForecastDate">End-of-horizon estimate</small></div>
+            <div class="forecast-direction" id="marketForecastDirection">Waiting for sufficient price history</div>
+            <div class="forecast-details"><div><span>Training observations</span><strong id="marketTrainingDays">—</strong></div><div><span>Validation MAE</span><strong id="marketForecastMae">—</strong></div><div><span>Validation MAPE</span><strong id="marketForecastMape">—</strong></div><div><span>Selected model</span><strong id="marketForecastMethod">—</strong></div></div>
+            <p class="forecast-disclaimer" id="marketForecastNote">Predictions appear here after the agent checks the available history.</p>
+          </section>
+        </div>
+        <div class="market-watch-bottom-grid">
+          <section class="market-panel mandi-comparison-panel">
+            <div class="market-panel-heading"><div><span class="market-panel-overline">REGIONAL PRICE DISCOVERY</span><h3>Mandis to compare</h3></div><span class="market-table-count" id="marketTableCount">0 markets</span></div>
+            <div class="market-table-scroll"><table class="market-table"><thead><tr><th>MANDI / DISTRICT</th><th>OBSERVED</th><th>MIN · MAX</th><th>MODAL PRICE</th></tr></thead><tbody id="marketMandiRows"><tr><td colspan="4" class="market-empty-cell">Enter a crop and region to load mandi prices.</td></tr></tbody></table></div>
+            <div class="market-best-price-note" id="marketBestPriceNote">Best price is the highest published modal quote before logistics, commission and quality deductions.</div>
+          </section>
+          <section class="market-panel market-tape-panel">
+            <div class="market-panel-heading"><div><span class="market-panel-overline">PUBLISHED MARKET UPDATES</span><h3>Market tape</h3></div><span class="market-tape-live"><i></i> 5-MIN CHECK</span></div>
+            <div class="market-tape-list" id="marketTapeList"><div class="market-tape-empty">Latest published mandi observations will appear here.</div></div>
+            <div class="market-tape-foot">This is a feed of official daily price observations, not individual buyer-seller executions.</div>
+          </section>
+        </div>
+        <div class="market-watch-footnote" id="marketWatchNote">Market source and freshness details will appear after the first request.</div>
+        <div class="market-source-links"><span>DATA SOURCES</span><a href="https://data.gov.in/resource/current-daily-price-various-commodities-various-markets-mandi" target="_blank" rel="noopener noreferrer">OGD / AGMARKNET ↗</a><a href="https://www.msamb.com/ApmcDetail/APMCPriceInformation" target="_blank" rel="noopener noreferrer">MSAMB Maharashtra ↗</a><a href="https://enam.gov.in/dashboard" target="_blank" rel="noopener noreferrer">e-NAM live dashboard ↗</a><a href="https://www.enam.gov.in/web/trading-details" target="_blank" rel="noopener noreferrer">e-NAM trading details ↗</a></div>
+      </section>
+
+      <section class="workspace-section" id="workspace"><div class="section-heading"><div><div class="eyebrow"><span class="eyebrow-line"></span> WORK WITH AGRITWIN</div><h2>AI workspace</h2><p>Describe the decision. The coordinator routes it to the right specialists.</p></div><button class="quiet-button" id="newConversation"><svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg> New conversation</button></div>
+        <div class="workspace-grid">
+          <section class="chat-card" aria-label="AgriTwin chat workspace">
+            <div class="chat-header"><div class="chat-heading-icon"><svg viewBox="0 0 32 32"><path d="M16 26V13M16 19C8.5 19 5.5 14.5 5.5 7c7.5 0 12 3 12 10M16 14c0-7 4-10 11-10 0 7-3 11-10 11"/></svg></div><div class="chat-heading-copy"><strong>AgriTwin assistant</strong><span><i class="status-dot" id="chatStatusDot"></i><span id="chatStatusText">Checking connection</span></span></div><div class="chat-controls"><label class="select-label" for="agentSelect">RUN MODE</label><select id="agentSelect" aria-label="Choose agent mode"><option value="coordinator">Coordinator · Auto route</option><option value="harvest">Harvest Agent</option><option value="climate">Climate Agent</option><option value="market">Market Agent</option><option value="logistics">Logistics Agent</option></select></div></div>
+            <div class="chat-context-row"><span class="context-label">CURRENT SESSION</span><span class="session-id" id="sessionLabel">Local session</span><span class="context-spacer"></span><span class="secure-label"><svg viewBox="0 0 16 16"><rect x="3" y="7" width="10" height="7" rx="1.5"/><path d="M5.5 7V5a2.5 2.5 0 0 1 5 0v2"/></svg> PRIVATE</span></div>
+            <div class="chat-messages" id="chatMessages" aria-live="polite"><div class="welcome-message" id="welcomeMessage"><div class="welcome-kicker">YOUR FIELD INTELLIGENCE, IN ONE PLACE</div><h3>What are we<br>working on today?</h3><p>Ask a question about your crop, the weather, a mandi or a delivery plan. AgriTwin will bring the right agent into the conversation.</p><div class="prompt-grid"><button class="prompt-card" data-prompt="Should I harvest onions in Nashik tomorrow?"><span class="prompt-symbol harvest-symbol">✳</span><span><strong>Harvest readiness</strong><small>Check crop and weather conditions</small></span><svg viewBox="0 0 20 20"><path d="M4 10h11M10 5l5 5-5 5"/></svg></button><button class="prompt-card" data-prompt="Give me the weather forecast for Nashik for the next 5 days."><span class="prompt-symbol climate-symbol">◌</span><span><strong>Climate outlook</strong><small>Review rain, temperature and wind</small></span><svg viewBox="0 0 20 20"><path d="M4 10h11M10 5l5 5-5 5"/></svg></button><button class="prompt-card" data-prompt="Analyze onion prices in Lasalgaon and recommend whether to sell or hold."><span class="prompt-symbol market-symbol">⌁</span><span><strong>Market decision</strong><small>Evaluate mandi price and market risk</small></span><svg viewBox="0 0 20 20"><path d="M4 10h11M10 5l5 5-5 5"/></svg></button><button class="prompt-card" data-prompt="Plan transportation for 5 tons of onions from Nashik to Lasalgaon and estimate the cost."><span class="prompt-symbol logistics-symbol">↗</span><span><strong>Logistics planning</strong><small>Compare route, vehicle and cost</small></span><svg viewBox="0 0 20 20"><path d="M4 10h11M10 5l5 5-5 5"/></svg></button></div></div></div>
+            <div class="chat-composer-wrap"><form class="chat-composer" id="chatForm"><textarea id="messageInput" rows="1" maxlength="5000" placeholder="Ask AgriTwin about your farm, market or supply chain..." aria-label="Message AgriTwin"></textarea><div class="composer-bottom"><span class="composer-hint"><kbd>Enter</kbd> to send <span>·</span> <kbd>Shift + Enter</kbd> for a new line</span><span class="composer-actions"><span class="char-counter" id="charCounter">0 / 5000</span><button class="send-button" id="sendButton" type="submit" aria-label="Send message"><svg viewBox="0 0 24 24"><path d="M5 12h14M13 5l7 7-7 7"/></svg></button></span></div></form><div class="composer-disclaimer">AI-generated guidance is decision support. Verify critical farm, market and transport decisions with current local information.</div></div>
+          </section>
+
+          <aside class="right-rail">
+            <section class="rail-card agent-activity-card"><div class="rail-card-head"><div><span class="rail-overline">ORCHESTRATION</span><h3>Agent activity</h3></div><span class="live-tag"><i></i> LIVE</span></div><div class="activity-empty" id="activityEmpty"><div class="activity-orbit"><span></span><span></span><span></span></div><strong>Ready for a request</strong><p>Your specialist activity will appear here when a task is running.</p></div><div class="activity-list" id="activityList" hidden></div><div class="rail-divider"></div><div class="activity-summary"><span>ORCHESTRATION MODE</span><strong>Coordinator-led</strong></div></section>
+            <section class="rail-card network-card" id="agents"><div class="rail-card-head"><div><span class="rail-overline">SYSTEM TOPOLOGY</span><h3>Specialist network</h3></div><a href="#agents" class="small-arrow" title="Agent network">↗</a></div><div class="specialist-list" id="specialistList"><div class="specialist-item"><span class="specialist-icon harvest-symbol">✳</span><span class="specialist-name"><strong>Harvest</strong><small>Crop readiness</small></span><span class="agent-state"><i></i> Active</span></div><div class="specialist-item"><span class="specialist-icon climate-symbol">◌</span><span class="specialist-name"><strong>Climate</strong><small>Weather intelligence</small></span><span class="agent-state"><i></i> Active</span></div><div class="specialist-item"><span class="specialist-icon market-symbol">⌁</span><span class="specialist-name"><strong>Market</strong><small>Price & risk analysis</small></span><span class="agent-state"><i></i> Active</span></div><div class="specialist-item"><span class="specialist-icon logistics-symbol">↗</span><span class="specialist-name"><strong>Logistics</strong><small>Route & cost planning</small></span><span class="agent-state"><i></i> Active</span></div></div><div class="planned-modules"><span>IN DEVELOPMENT</span><div><span>Disease intelligence</span><span>Storage planning</span></div></div></section>
+            <section class="rail-card data-card" id="market-data"><div class="rail-card-head"><div><span class="rail-overline">DATA FOUNDATION</span><h3>Market data snapshot</h3></div><span class="data-source-mark">OGD</span></div><div class="snapshot-date"><span class="snapshot-icon"><svg viewBox="0 0 20 20"><rect x="3" y="4" width="14" height="13" rx="2"/><path d="M6 2v4M14 2v4M3 8h14"/></svg></span><span><strong id="snapshotDate">Reading dataset</strong><small>Last date represented in local CSV</small></span></div><div class="snapshot-warning"><span>!</span><p>This is a historical dataset snapshot, not a live price feed. Check the data date before acting on a market recommendation.</p></div></section>
+          </aside>
+        </div>
+      </section>
+      <footer class="page-footer"><span>AGRITWIN <b>·</b> MULTI-AGENT DIGITAL TWIN</span><span>BUILT FOR CONNECTED AGRICULTURE <i></i> LOCAL INSTANCE</span></footer>
+    </div>
+  </main>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="/static/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#173b2b" />
+  <meta name="description" content="AgriTwin connects farmers, drivers, storage owners, mandi traders, mandi operators and FPOs across the agricultural supply chain." />
+  <title>AgriTwin | Agricultural Supply Chain Network</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  <link rel="stylesheet" href="/app/styles.css" />
+</head>
+<body>
+  <div id="appShell" class="app-shell" hidden>
+    <aside class="sidebar" id="sidebar">
+      <a class="brand" href="#overview" aria-label="AgriTwin home">
+        <span class="brand-mark" aria-hidden="true">✳</span>
+        <span class="brand-name">agri<span>twin</span><small>SUPPLY CHAIN NETWORK</small></span>
+      </a>
+      <div class="workspace-card"><span class="workspace-icon">⌂</span><span><small>YOUR WORKSPACE</small><strong id="workspaceRole">Farmer workspace</strong></span></div>
+      <div class="nav-label">WORKSPACE</div>
+      <nav class="main-nav" aria-label="Main navigation">
+        <button class="nav-item active" data-page="overview"><span>⌂</span> Overview</button>
+        <button class="nav-item" data-page="marketplace"><span>▦</span> Marketplace <b id="marketplaceCount" class="nav-count">—</b></button>
+        <button class="nav-item" data-page="network"><span>◎</span> Stakeholder network</button>
+        <button class="nav-item" data-page="requests"><span>↔</span> Connections <b id="requestCount" class="nav-count" hidden>0</b></button>
+        <button class="nav-item" data-page="listings"><span>▤</span> My listings</button>
+      </nav>
+      <div class="nav-label nav-gap">TOOLS</div>
+      <nav class="main-nav">
+        <button class="nav-item" data-page="profile"><span>◉</span> My profile</button>
+        <button class="nav-item" data-page="agents"><span>✳</span> AI assistant <i class="nav-new">AI</i></button>
+        <a class="nav-item" href="/docs" target="_blank" rel="noreferrer"><span>⌘</span> API documentation <small>↗</small></a>
+      </nav>
+      <div class="sidebar-bottom">
+        <div class="help-card"><span class="help-spark">✳</span><strong>Better together.</strong><p>Move produce from farm to market with the right people in one network.</p><button data-page="network">Explore your network <span>→</span></button></div>
+        <div class="account-row"><div class="avatar" id="sidebarAvatar">F</div><div class="account-info"><strong id="sidebarName">Your account</strong><small id="sidebarRole">Farmer</small></div><button class="logout-button" id="logoutButton" title="Sign out" aria-label="Sign out">↗</button></div>
+      </div>
+    </aside>
+
+    <main class="main-content">
+      <header class="topbar">
+        <div class="topbar-left"><button id="mobileMenu" class="mobile-menu" aria-label="Open navigation">☰</button><div class="breadcrumb">AgriTwin <span>/</span> <strong id="breadcrumbPage">Overview</strong></div></div>
+        <div class="topbar-right"><span class="network-status"><i></i> <span id="networkStatusText">Connected</span></span><button class="icon-button" id="refreshButton" title="Refresh dashboard" aria-label="Refresh">↻</button><div class="top-avatar" id="topAvatar">F</div></div>
+      </header>
+
+      <div class="page-wrap">
+        <section class="page-view active" id="page-overview">
+          <div class="welcome-banner">
+            <div class="welcome-content"><div class="eyebrow"><span></span> YOUR AGRICULTURAL NETWORK</div><h1 id="welcomeTitle">Your crop. Your choices.</h1><p id="welcomeSubtitle">Connect with the people who move your harvest forward.</p><div class="welcome-actions"><button class="btn btn-light" data-page="marketplace">Explore marketplace <span>→</span></button><button class="btn btn-outline-light" id="heroCreateButton">＋ Create a listing</button></div></div>
+            <div class="welcome-illustration" aria-hidden="true"><div class="sun"></div><div class="field field-back"></div><div class="field field-front"></div><div class="plant plant-a"><i></i><i></i><i></i></div><div class="plant plant-b"><i></i><i></i></div><div class="plant plant-c"><i></i><i></i><i></i></div><div class="hero-badge"><span>✳</span><div><strong>Field to market</strong><small>One connected journey</small></div></div></div>
+          </div>
+
+          <div class="metric-grid" id="metricGrid">
+            <article class="metric-card"><span class="metric-icon green">▤</span><div><small id="metricListingsLabel">My active listings</small><strong id="metricListings">0</strong><em id="metricListingsHint">Published by you</em></div></article>
+            <article class="metric-card"><span class="metric-icon orange">↙</span><div><small id="metricIncomingLabel">New requests</small><strong id="metricIncoming">0</strong><em id="metricIncomingHint">Waiting for your response</em></div></article>
+            <article class="metric-card"><span class="metric-icon blue">◎</span><div><small id="metricConnectionsLabel">Active connections</small><strong id="metricConnections">0</strong><em id="metricConnectionsHint">Accepted partners</em></div></article>
+            <article class="metric-card"><span class="metric-icon purple">✳</span><div><small id="metricMatchesLabel">Good matches</small><strong id="metricMatches">0</strong><em id="metricMatchesHint">Based on your profile</em></div></article>
+          </div>
+
+          <section class="section-head"><div><span class="section-kicker">MOVE YOUR WORK FORWARD</span><h2>What do you need today?</h2><p id="quickActionSubtitle">Start with a task. AgriTwin helps you find the right stakeholder.</p></div></section>
+          <div class="quick-actions" id="quickActions"></div>
+
+          <section class="role-workspace" id="roleWorkspace" aria-live="polite"><div class="loading-line">Loading your role workspace…</div></section>
+
+          <div class="content-columns">
+            <section class="panel matches-panel"><div class="panel-heading"><div><span class="section-kicker">MATCHED TO YOUR NEEDS</span><h2>Recommended for you</h2><p>Relevant listings from across your supply chain.</p></div><button class="text-button" data-page="marketplace">View all <span>→</span></button></div><div id="recommendedMatches" class="listing-stack"><div class="loading-line">Finding relevant partners…</div></div></section>
+            <aside class="right-column">
+              <section class="panel profile-progress"><div class="panel-heading small-heading"><div><span class="section-kicker">TRUST STARTS HERE</span><h3>Complete your profile</h3></div><span class="progress-number" id="profilePercent">0%</span></div><div class="progress-track"><i id="profileProgressBar"></i></div><p>A detailed profile helps other stakeholders understand what you offer and improves match quality.</p><button class="text-button" data-page="profile">Update profile <span>→</span></button></section>
+              <section class="panel connection-panel"><div class="panel-heading small-heading"><div><span class="section-kicker">YOUR INBOX</span><h3>Recent requests</h3></div><button class="text-button" data-page="requests">All <span>→</span></button></div><div id="recentRequests" class="request-mini-list"><div class="empty-inline">No connection requests yet.</div></div></section>
+              <section class="trust-note"><span>♧</span><div><strong>People-powered agriculture</strong><p>Keep conversations and agreements transparent. Confirm quality, quantity, payment and delivery terms before a transaction.</p></div></section>
+            </aside>
+          </div>
+          <section class="workflow-panel"><div><span class="section-kicker">A BETTER SUPPLY CHAIN</span><h2>From harvest to the right hands.</h2><p>Every stakeholder has a role. AgriTwin helps the hand-offs happen with less friction.</p></div><div class="workflow-steps"><div><span>01</span><b>Farmer</b><small>Harvest & list produce</small></div><i>→</i><div><span>02</span><b>Driver</b><small>Pick up & transport</small></div><i>→</i><div><span>03</span><b>Storage</b><small>Protect the harvest</small></div><i>→</i><div><span>04</span><b>Mandi / Buyer</b><small>Trade & distribute</small></div></div></section>
+        </section>
+
+        <section class="page-view" id="page-marketplace">
+          <div class="page-intro"><div><span class="section-kicker">OPEN AGRICULTURAL EXCHANGE</span><h1>Marketplace</h1><p>Browse produce, transport, storage, buying requirements and services shared by the network.</p></div><button class="btn btn-primary" id="marketCreateButton">＋ Create listing</button></div>
+          <div class="filter-bar"><label class="search-field"><span>⌕</span><input id="listingSearch" placeholder="Search crop, service, location or stakeholder" /></label><select id="listingCategory"><option value="">All listing types</option><option value="produce">Crop for sale</option><option value="need_transport">Transport needed</option><option value="transport">Transport service</option><option value="need_storage">Storage needed</option><option value="storage">Storage capacity</option><option value="buying">Buying produce</option><option value="need_buyer">Looking for buyers</option><option value="mandi_service">Mandi service</option><option value="fpo_service">FPO services</option><option value="need_fpo_support">FPO support needed</option></select><input id="listingDistrict" placeholder="District" aria-label="Filter by district" /><button class="btn btn-soft" id="applyListingFilters">Apply filters</button></div>
+          <div class="results-meta"><span id="listingResultsCount">Loading listings…</span><span>Match scores are fit guidance, not guaranteed deal probabilities.</span></div><div id="marketplaceGrid" class="listing-grid"><div class="loading-line">Loading marketplace…</div></div>
+        </section>
+
+        <section class="page-view" id="page-network">
+          <div class="page-intro"><div><span class="section-kicker">PEOPLE BEHIND THE SUPPLY CHAIN</span><h1>Stakeholder network</h1><p>Find farmers, drivers, storage partners, traders, mandi operators and FPO managers. Connect directly and start a conversation.</p></div></div>
+          <div class="network-summary" id="networkSummary"></div>
+          <section class="panel matrix-panel"><div class="panel-heading"><div><span class="section-kicker">SUPPLY-CHAIN CONNECTION MAP</span><h2>How stakeholders work together</h2><p>Starting compatibility weights for common business workflows.</p></div></div><div id="compatibilityMatrix" class="matrix-scroll"><div class="loading-line">Loading connection map…</div></div><p class="score-clarifier">Scores are workflow-fit weights, not measured deal-success probabilities. They should be calibrated with real completed and declined transactions.</p></section>
+          <div class="filter-bar"><label class="search-field"><span>⌕</span><input id="peopleSearch" placeholder="Search name, organization or crop" /></label><select id="peopleRole"><option value="">All stakeholder types</option><option value="farmer">Farmers</option><option value="driver">Drivers / vehicle owners</option><option value="storage_owner">Storage owners</option><option value="mandi_seller">Mandi sellers / traders</option><option value="mandi_owner">Mandi owners</option><option value="fpo_manager">FPO managers</option></select><input id="peopleDistrict" placeholder="District" aria-label="Filter by district"/><button class="btn btn-soft" id="applyPeopleFilters">Find people</button></div>
+          <div class="results-meta"><span id="peopleCount">Loading network…</span><span>Contact details are kept private until you choose to connect.</span></div><div id="peopleGrid" class="people-grid"><div class="loading-line">Loading stakeholders…</div></div>
+        </section>
+
+        <section class="page-view" id="page-requests">
+          <div class="page-intro"><div><span class="section-kicker">BUSINESS CONVERSATIONS</span><h1>Connections</h1><p>Review requests, accept relevant partners and use private messages to coordinate the details.</p></div></div>
+          <div class="tabs" id="connectionTabs"><button class="tab active" data-box="all">All connections</button><button class="tab" data-box="incoming">Incoming</button><button class="tab" data-box="outgoing">Sent by me</button></div><div id="connectionsList" class="connection-list"><div class="loading-line">Loading connections…</div></div>
+        </section>
+
+        <section class="page-view" id="page-listings">
+          <div class="page-intro"><div><span class="section-kicker">YOUR BUSINESS BOARD</span><h1>My listings</h1><p>Manage the produce, capacity, services and requirements you have shared with the network.</p></div><button class="btn btn-primary" id="myCreateButton">＋ New listing</button></div>
+          <div id="myListingsGrid" class="listing-grid"><div class="loading-line">Loading your listings…</div></div>
+        </section>
+
+        <section class="page-view" id="page-profile">
+          <div class="page-intro"><div><span class="section-kicker">YOUR IDENTITY IN THE NETWORK</span><h1>My profile</h1><p>Tell other stakeholders where you work, what you handle and what capacity you can offer.</p></div></div>
+          <div class="profile-layout"><section class="panel profile-form-panel"><form id="profileForm"><div class="form-section-title"><div><h2>Business & location</h2><p>These details help us find nearby and relevant matches.</p></div></div><div class="form-grid"><label class="form-field"><span>Organization / business name</span><input name="organization" placeholder="Farm, transport business, warehouse…" /></label><label class="form-field"><span>Short headline</span><input name="headline" placeholder="e.g. Onion grower · 8 acres" /></label><label class="form-field"><span>Village / town</span><input name="village" placeholder="Village or town" /></label><label class="form-field"><span>District</span><input name="district" placeholder="e.g. Nashik" /></label><label class="form-field"><span>State</span><input name="state" placeholder="e.g. Maharashtra" /></label><label class="form-field"><span>Primary location / address</span><input name="address" placeholder="Area, village, landmark" /></label><label class="form-field"><span>Latitude (optional)</span><input name="latitude" type="number" step="any" placeholder="19.9975" /></label><label class="form-field"><span>Longitude (optional)</span><input name="longitude" type="number" step="any" placeholder="73.7898" /></label></div><label class="form-field"><span>About your work</span><textarea name="about" rows="4" placeholder="Describe your farm, business, services or the partners you are looking for…"></textarea></label><label class="form-field"><span>Crops / commodities you work with</span><input name="commodities" placeholder="Onion, tomato, soybean (comma separated)" /></label><div class="form-section-title additional-title"><div><h2>Role-specific information</h2><p>Only fill the fields that apply to your work.</p></div></div><div class="form-grid"><label class="form-field"><span>Capacity (tonnes)</span><input name="capacity_tonnes" type="number" min="0" step="0.1" placeholder="e.g. 20" /></label><label class="form-field"><span>Vehicle type</span><input name="vehicle_type" placeholder="Truck, pickup, tractor…" /></label><label class="form-field"><span>Storage type</span><input name="storage_type" placeholder="Cold storage, ventilated, dry…" /></label><label class="form-field"><span>Service radius (km)</span><input name="service_radius_km" type="number" min="0" placeholder="e.g. 100" /></label><label class="form-field"><span>Mandi name</span><input name="mandi_name" placeholder="Market / APMC name" /></label><label class="form-field"><span>License / registration number</span><input name="license_number" placeholder="Optional" /></label></div><div class="form-actions"><span class="form-hint">Your phone and email are not shown in the public directory.</span><button class="btn btn-primary" type="submit">Save profile <span>→</span></button></div><div class="form-feedback" id="profileFeedback" role="status"></div></form></section><aside class="panel identity-card"><div class="identity-avatar" id="profileAvatar">F</div><h2 id="profileName">Your name</h2><span class="role-pill" id="profileRole">Farmer</span><p id="profileEmail">you@example.com</p><div class="identity-divider"></div><div class="identity-stat"><span>Profile completeness</span><strong id="profileSidePercent">0%</strong></div><div class="progress-track"><i id="profileSideBar"></i></div><p class="identity-tip">A complete profile makes it easier for other stakeholders to trust your information and assess whether a partnership is a good fit.</p></aside></div>
+        </section>
+
+        <section class="page-view" id="page-agents">
+          <div class="page-intro ai-page-intro">
+            <div><span class="section-kicker">AGRITWIN MULTI-AGENT INTELLIGENCE</span><h1>AI assistant</h1><p>Talk naturally. The Coordinator brings in the right agricultural specialists, or you can choose an agent directly.</p></div>
+            <button class="btn btn-soft" type="button" id="aiNewConversation">＋ New conversation</button>
+          </div>
+          <div class="ai-role-context" id="aiRoleContext">
+            <span class="ai-context-mark">✳</span><div><strong id="aiRoleTitle">Your stakeholder workspace</strong><p id="aiRoleDescription">All active agents are available to every stakeholder. Advice is tailored to your role and the details you provide.</p></div>
+            <span class="ai-access-pill">ALL ROLES · ALL ACTIVE AGENTS</span>
+          </div>
+          <div class="ai-chat-layout">
+            <section class="panel ai-chat-panel" aria-label="AgriTwin multi-agent chat">
+              <header class="ai-chat-header">
+                <div class="ai-chat-brand"><span class="ai-chat-mark">✳</span><div><strong>AgriTwin intelligence</strong><small><i class="ai-status-dot" id="aiStatusDot"></i><span id="aiStatusText">Checking AI configuration</span></small></div></div>
+                <label class="ai-mode-select"><span>CHAT WITH</span><select id="aiAgentSelect" aria-label="Choose an AI agent"><option value="coordinator">Coordinator · Auto-select</option><option value="harvest">Harvest Agent</option><option value="climate">Climate Agent</option><option value="market">Market Agent</option><option value="logistics">Logistics Agent</option></select></label>
+              </header>
+              <div class="ai-chat-messages" id="aiChatMessages" aria-live="polite" aria-relevant="additions">
+                <div class="ai-welcome" id="aiWelcome">
+                  <span class="ai-welcome-kicker">YOUR SUPPLY-CHAIN DECISIONS, CONNECTED</span>
+                  <h2 id="aiWelcomeTitle">What would you like to work through today?</h2>
+                  <p id="aiWelcomeSubtitle">Ask a question or describe a decision. The Coordinator will involve relevant specialists and explain what information is live, estimated or unavailable.</p>
+                  <div class="ai-prompt-grid" id="aiPromptGrid"></div>
+                </div>
+              </div>
+              <form class="ai-chat-composer" id="aiChatForm">
+                <textarea id="aiMessageInput" rows="1" maxlength="5000" placeholder="Ask about crops, weather, mandi prices, storage or transport…" aria-label="Message AgriTwin AI" required></textarea>
+                <div class="ai-composer-footer"><span><kbd>Enter</kbd> to send <span>·</span> <kbd>Shift + Enter</kbd> for a new line</span><div><span id="aiCharCount">0 / 5000</span><button class="ai-send-button" id="aiSendButton" type="submit" aria-label="Send message">↑</button></div></div>
+              </form>
+              <p class="ai-disclaimer">AI guidance supports decisions; it is not a substitute for field inspection, verified quotations or official advisories. Never share passwords, API keys or sensitive personal details in chat.</p>
+            </section>
+            <aside class="ai-agent-rail">
+              <section class="panel ai-rail-panel"><div class="ai-rail-heading"><div><span class="section-kicker">ORCHESTRATION</span><h2>Agent network</h2></div><span class="ai-live-pill"><i></i> AVAILABLE</span></div><div id="aiAgentList" class="ai-agent-list"><div class="loading-line">Loading agents…</div></div><p class="ai-rail-note">Choose any active specialist directly, or use Coordinator mode to delegate across agents.</p></section>
+              <section class="panel ai-rail-panel"><div class="ai-rail-heading"><div><span class="section-kicker">LATEST TURN</span><h2>Agent activity</h2></div></div><div id="aiActivity" class="ai-activity-empty">Your agents' completed work will appear here after a response.</div></section>
+              <section class="panel ai-rail-panel ai-planned-panel"><div class="ai-rail-heading"><div><span class="section-kicker">ROADMAP</span><h2>In development</h2></div></div><div id="aiPlannedAgents" class="ai-planned-list"><span>Storage Agent</span><span>Equity Agent</span><span>Disease Agent</span></div><p class="ai-rail-note">These modules are not yet standalone chat agents in the uploaded multi-agent codebase. Existing stakeholder dashboard tools remain available.</p></section>
+            </aside>
+          </div>
+        </section>
+
+        <footer class="page-footer"><span>© 2026 AgriTwin</span><span>Connecting the people who grow, move, store and trade food.</span><a href="/docs" target="_blank" rel="noreferrer">API docs ↗</a></footer>
+      </div>
+    </main>
+  </div>
+
+  <section class="auth-screen" id="authScreen">
+    <div class="auth-left"><a class="brand auth-brand" href="#"><span class="brand-mark">✳</span><span class="brand-name">agri<span>twin</span><small>SUPPLY CHAIN NETWORK</small></span></a><div class="auth-story"><span class="section-kicker">FROM FARM TO MARKET, TOGETHER</span><h1>A stronger harvest starts with the right connections.</h1><p>One place for farmers and every partner they depend on. Find a vehicle, secure storage, reach buyers and build lasting business relationships.</p><div class="auth-stat-row"><div><strong>6</strong><span>stakeholder groups</span></div><div><strong>1</strong><span>connected network</span></div><div><strong>∞</strong><span>ways to collaborate</span></div></div></div><div class="auth-visual" aria-hidden="true"><div class="auth-sun"></div><div class="auth-ridge ridge-1"></div><div class="auth-ridge ridge-2"></div><div class="auth-row-lines"></div></div><div class="auth-footer">A more connected agricultural supply chain.</div></div>
+    <div class="auth-right"><div class="auth-form-wrap"><div class="auth-mobile-brand"><span class="brand-mark">✳</span><b>agri<span>twin</span></b></div><div class="auth-heading"><span class="section-kicker">YOUR NETWORK AWAITS</span><h2 id="authTitle">Welcome back</h2><p id="authSubtitle">Sign in to your AgriTwin workspace.</p></div><div class="auth-tabs"><button class="auth-tab active" data-auth="login">Sign in</button><button class="auth-tab" data-auth="register">Create account</button></div>
+      <form id="loginForm" class="auth-form"><label class="form-field"><span>Email or username</span><input name="identifier" required autocomplete="username" placeholder="Enter email or username" /></label><label class="form-field"><span>Password</span><input name="password" type="password" required minlength="8" autocomplete="current-password" placeholder="Enter your password" /></label><button class="btn btn-primary auth-submit" type="submit">Sign in <span>→</span></button></form>
+      <form id="registerForm" class="auth-form" hidden><label class="form-field"><span>Your full name</span><input name="full_name" required minlength="3" maxlength="100" placeholder="e.g. Rahul Patil" /></label><div class="form-grid two"><label class="form-field"><span>Username</span><input name="username" required minlength="3" maxlength="30" pattern="[a-z0-9_]+" placeholder="rahul_patil" /></label><label class="form-field"><span>Mobile number</span><input name="phone" required minlength="10" maxlength="20" placeholder="10-digit number" /></label></div><label class="form-field"><span>Email address</span><input name="email" type="email" required placeholder="you@example.com" /></label><label class="form-field"><span>I am a…</span><select name="role" id="registerRole" required><option value="farmer">Farmer</option><option value="driver">Driver / vehicle owner</option><option value="storage_owner">Storage owner</option><option value="mandi_seller">Mandi seller / trader</option><option value="mandi_owner">Mandi owner / operator</option><option value="fpo_manager">FPO manager</option></select></label><label class="form-field"><span>Create password</span><input name="password" type="password" required minlength="8" autocomplete="new-password" placeholder="At least 8 characters" /></label><button class="btn btn-primary auth-submit" type="submit">Create my account <span>→</span></button></form>
+      <div class="auth-error" id="authError" role="alert" hidden></div><p class="auth-privacy">By continuing, you agree to use AgriTwin responsibly. Your contact details stay private until you choose to share them.</p><div class="auth-demo-note"><span>♧</span> Built for real supply-chain collaboration, with farmer-first workflows.</div></div></div>
+  </section>
+
+  <dialog id="listingDialog" class="modal"><form id="listingForm" method="dialog"><div class="modal-head"><div><span class="section-kicker">SHARE WITH THE NETWORK</span><h2>Create a listing</h2><p>Be clear about your crop, service or requirement so the right people can find you.</p></div><button class="modal-close" type="button" data-close="listingDialog" aria-label="Close">×</button></div><div class="form-grid"><label class="form-field"><span>Listing type</span><select name="category" id="listingType" required></select></label><label class="form-field"><span>Title</span><input name="title" required minlength="5" maxlength="180" placeholder="e.g. 8 tonnes of Nashik red onion ready" /></label><label class="form-field"><span>Crop / commodity</span><input name="commodity" placeholder="Onion, tomato…" /></label><label class="form-field"><span>Quantity (tonnes)</span><input name="quantity_tonnes" type="number" min="0.01" step="0.1" placeholder="e.g. 8" /></label><label class="form-field"><span>Capacity (tonnes)</span><input name="capacity_tonnes" type="number" min="0.01" step="0.1" placeholder="For vehicles / storage" /></label><label class="form-field"><span>Price (₹ per quintal)</span><input name="price_per_quintal" type="number" min="0" step="1" placeholder="Optional" /></label><label class="form-field"><span>Location</span><input name="location" placeholder="Village / facility / mandi" /></label><label class="form-field"><span>District</span><input name="district" placeholder="e.g. Nashik" /></label><label class="form-field"><span>State</span><input name="state" placeholder="e.g. Maharashtra" /></label><label class="form-field"><span>Pickup location</span><input name="pickup_location" placeholder="For movement requests" /></label><label class="form-field"><span>Destination</span><input name="destination" placeholder="Where should it go?" /></label><label class="form-field"><span>Available from</span><input name="available_from" type="date" /></label></div><label class="form-field"><span>Details & terms</span><textarea name="description" rows="4" placeholder="Quality, timing, conditions, vehicle type, storage features or other useful details…"></textarea></label><div class="modal-actions"><span class="form-hint">Your listing is visible to signed-in AgriTwin stakeholders.</span><button class="btn btn-primary" type="submit">Publish listing <span>→</span></button></div><div class="form-feedback" id="listingFeedback" role="status"></div></form></dialog>
+
+  <dialog id="connectDialog" class="modal modal-compact"><form id="connectForm" method="dialog"><div class="modal-head"><div><span class="section-kicker">START A BUSINESS CONVERSATION</span><h2>Send connection request</h2><p id="connectTargetName">Connect with this stakeholder.</p></div><button class="modal-close" type="button" data-close="connectDialog" aria-label="Close">×</button></div><input type="hidden" name="recipient_id"/><input type="hidden" name="listing_id"/><label class="form-field"><span>What would you like to discuss?</span><select name="purpose"><option value="transport">Transport / vehicle availability</option><option value="storage">Storage availability</option><option value="buying_selling">Buying / selling produce</option><option value="fpo_support">FPO / aggregation support</option><option value="mandi_services">Mandi services</option><option value="partnership">Business partnership</option><option value="general">General enquiry</option></select></label><label class="form-field"><span>Message</span><textarea name="message" rows="4" required minlength="8" placeholder="Introduce yourself and explain what you need…"></textarea></label><div class="form-grid two"><label class="form-field"><span>Commodity</span><input name="commodity" placeholder="e.g. Onion"/></label><label class="form-field"><span>Quantity (tonnes)</span><input name="quantity_tonnes" type="number" min="0.1" step="0.1" placeholder="Optional"/></label></div><label class="form-field"><span>Offer price (₹/quintal, optional)</span><input name="offered_price" type="number" min="0" placeholder="Optional"/></label><div class="modal-actions"><span class="form-hint">They can accept or decline your request.</span><button class="btn btn-primary" type="submit">Send request <span>→</span></button></div><div class="form-feedback" id="connectFeedback" role="status"></div></form></dialog>
+
+  <dialog id="messageDialog" class="modal message-modal"><div class="message-head"><div><span class="section-kicker">PRIVATE CONVERSATION</span><h2 id="messageTitle">Messages</h2><p>Coordinate details with your accepted connection.</p></div><button class="modal-close" type="button" data-close="messageDialog" aria-label="Close">×</button></div><div id="messageHistory" class="message-history"></div><form id="messageForm" class="message-compose"><input name="body" required maxlength="3000" placeholder="Write a message…"/><button class="btn btn-primary" type="submit" aria-label="Send message">Send ↑</button></form></dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="/app/app.js" defer></script>
+</body>
+</html>

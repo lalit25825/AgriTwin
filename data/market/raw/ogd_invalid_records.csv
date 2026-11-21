@@ -1,0 +1,5 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price,_validation_error,_record_index
+Karnataka,Belagavi,Belgaum APMC,Brinjal,Other,Large,09/09/2026,2500,3000,2000,modal_price < min_price,2450
+Karnataka,Belagavi,Belgaum APMC,Bitter gourd,Bitter Gourd,Large,09/09/2026,2500,2800,2200,modal_price < min_price,2836
+Karnataka,Belagavi,Belgaum APMC,Cauliflower,Local,Large,09/09/2026,320,250,200,max_price < min_price,2947
+Karnataka,Belagavi,Belgaum APMC,Ladies Finger,Ladies Finger,Large,09/09/2026,2500,2800,2200,modal_price < min_price,2948

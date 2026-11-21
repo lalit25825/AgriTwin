@@ -1,0 +1,263 @@
+{
+  "onion": {
+    "ideal_temperature": {
+      "min": 18,
+      "max": 25
+    },
+    "max_humidity": 70,
+    "rain_sensitive": true,
+    "ideal_wind_speed": 20,
+    "harvest_advice": "Avoid harvesting during rainfall.",
+    "storage_required": true,
+    "shelf_life_days": 180,
+    "harvest_season": ["Rabi"],
+    "common_diseases": [
+      "Purple Blotch",
+      "Stemphylium Blight",
+      "Downy Mildew"
+    ]
+  },
+
+  "grapes": {
+    "ideal_temperature": {
+      "min": 20,
+      "max": 30
+    },
+    "max_humidity": 75,
+    "rain_sensitive": true,
+    "ideal_wind_speed": 20,
+    "harvest_advice": "Harvest only in dry weather to avoid fungal infection.",
+    "storage_required": true,
+    "shelf_life_days": 45,
+    "harvest_season": [
+      "January",
+      "February",
+      "March"
+    ],
+    "common_diseases": [
+      "Powdery Mildew",
+      "Downy Mildew"
+    ]
+  },
+
+  "wheat": {
+    "ideal_temperature": {
+      "min": 20,
+      "max": 30
+    },
+    "max_humidity": 65,
+    "rain_sensitive": true,
+    "ideal_wind_speed": 25,
+    "harvest_advice": "Harvest only when grain moisture is low.",
+    "storage_required": true,
+    "shelf_life_days": 270,
+    "harvest_season": [
+      "Rabi"
+    ],
+    "common_diseases": [
+      "Rust",
+      "Loose Smut"
+    ]
+  },
+
+  "rice": {
+    "ideal_temperature": {
+      "min": 24,
+      "max": 35
+    },
+    "max_humidity": 85,
+    "rain_sensitive": false,
+    "ideal_wind_speed": 30,
+    "harvest_advice": "Harvest after grains mature fully.",
+    "storage_required": true,
+    "shelf_life_days": 365,
+    "harvest_season": [
+      "Kharif"
+    ],
+    "common_diseases": [
+      "Blast",
+      "Brown Spot"
+    ]
+  },
+
+  "cotton": {
+    "ideal_temperature": {
+      "min": 22,
+      "max": 32
+    },
+    "max_humidity": 65,
+    "rain_sensitive": true,
+    "ideal_wind_speed": 20,
+    "harvest_advice": "Harvest after bolls fully open.",
+    "storage_required": false,
+    "shelf_life_days": 730,
+    "harvest_season": [
+      "Kharif"
+    ],
+    "common_diseases": [
+      "Wilt",
+      "Leaf Curl Virus"
+    ]
+  },
+
+  "tomato": {
+    "ideal_temperature": {
+      "min": 18,
+      "max": 28
+    },
+    "max_humidity": 80,
+    "rain_sensitive": true,
+    "ideal_wind_speed": 18,
+    "harvest_advice": "Harvest mature fruits during dry weather.",
+    "storage_required": true,
+    "shelf_life_days": 20,
+    "harvest_season": [
+      "Year-round"
+    ],
+    "common_diseases": [
+      "Early Blight",
+      "Late Blight"
+    ]
+  },
+
+  "potato": {
+    "ideal_temperature": {
+      "min": 16,
+      "max": 24
+    },
+    "max_humidity": 75,
+    "rain_sensitive": true,
+    "ideal_wind_speed": 20,
+    "harvest_advice": "Harvest only after vines dry naturally.",
+    "storage_required": true,
+    "shelf_life_days": 150,
+    "harvest_season": [
+      "Rabi"
+    ],
+    "common_diseases": [
+      "Late Blight",
+      "Black Scurf"
+    ]
+  },
+
+  "soybean": {
+    "ideal_temperature": {
+      "min": 20,
+      "max": 30
+    },
+    "max_humidity": 70,
+    "rain_sensitive": true,
+    "ideal_wind_speed": 22,
+    "harvest_advice": "Harvest after pods dry completely.",
+    "storage_required": true,
+    "shelf_life_days": 300,
+    "harvest_season": [
+      "Kharif"
+    ],
+    "common_diseases": [
+      "Rust",
+      "Charcoal Rot"
+    ]
+  },
+
+  "sugarcane": {
+    "ideal_temperature": {
+      "min": 22,
+      "max": 34
+    },
+    "max_humidity": 85,
+    "rain_sensitive": false,
+    "ideal_wind_speed": 30,
+    "harvest_advice": "Harvest at full maturity for maximum sugar recovery.",
+    "storage_required": false,
+    "shelf_life_days": 7,
+    "harvest_season": [
+      "Winter"
+    ],
+    "common_diseases": [
+      "Red Rot",
+      "Smut"
+    ]
+  },
+
+  "banana": {
+    "ideal_temperature": {
+      "min": 22,
+      "max": 32
+    },
+    "max_humidity": 85,
+    "rain_sensitive": false,
+    "ideal_wind_speed": 25,
+    "harvest_advice": "Harvest when fruits reach commercial maturity.",
+    "storage_required": true,
+    "shelf_life_days": 15,
+    "harvest_season": [
+      "Year-round"
+    ],
+    "common_diseases": [
+      "Panama Disease",
+      "Sigatoka"
+    ]
+  },
+
+  "mango": {
+    "ideal_temperature": {
+      "min": 24,
+      "max": 35
+    },
+    "max_humidity": 80,
+    "rain_sensitive": true,
+    "ideal_wind_speed": 25,
+    "harvest_advice": "Harvest mature fruits before heavy rainfall.",
+    "storage_required": true,
+    "shelf_life_days": 25,
+    "harvest_season": [
+      "Summer"
+    ],
+    "common_diseases": [
+      "Anthracnose",
+      "Powdery Mildew"
+    ]
+  },
+
+  "pomegranate": {
+    "ideal_temperature": {
+      "min": 20,
+      "max": 34
+    },
+    "max_humidity": 75,
+    "rain_sensitive": true,
+    "ideal_wind_speed": 20,
+    "harvest_advice": "Harvest when fruits develop full color.",
+    "storage_required": true,
+    "shelf_life_days": 90,
+    "harvest_season": [
+      "Year-round"
+    ],
+    "common_diseases": [
+      "Bacterial Blight",
+      "Fruit Rot"
+    ]
+  },
+
+  "maize": {
+    "ideal_temperature": {
+      "min": 20,
+      "max": 30
+    },
+    "max_humidity": 70,
+    "rain_sensitive": true,
+    "ideal_wind_speed": 22,
+    "harvest_advice": "Harvest after kernels harden and moisture decreases.",
+    "storage_required": true,
+    "shelf_life_days": 365,
+    "harvest_season": [
+      "Kharif",
+      "Rabi"
+    ],
+    "common_diseases": [
+      "Leaf Blight",
+      "Rust"
+    ]
+  }
+}

@@ -1,0 +1,1165 @@
+date,state,district,market,commodity,variety,grade,arrival_quantity,min_price,max_price,modal_price,source,collected_at
+2026-11-20,Maharashtra,Ahilyanagar,APMC Ahilyanagar,Bajra(Pearl Millet/Cumbu),Other,Non-FAQ,,2750.0,2750.0,2750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.109655Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Ahilyanagar,Bengal Gram(Gram)(Whole),Other,FAQ,,6900.0,7500.0,7200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.011380Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Ahilyanagar,Black Gram(Urd Beans)(Whole),Other,FAQ,,9000.0,9200.0,9100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.962299Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Ahilyanagar,Chili Red,Other,Local,,17400.0,20800.0,19100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.110778Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Ahilyanagar,Green Gram(Moong)(Whole),Other,Non-FAQ,,8500.0,8500.0,8500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.110024Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Ahilyanagar,Gur(Jaggery),Other,Local,,4500.0,6000.0,5525.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.962870Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Ahilyanagar,Jowar(Sorghum),Other,Local,,2900.0,3300.0,3100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.109858Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Ahilyanagar,Maize,Other,FAQ,,2800.0,3000.0,2900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.961790Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Ahilyanagar,Red gram/Arhar/Tur(whole),Other,FAQ,,9000.0,9000.0,9000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.871129Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Ahilyanagar,Soyabean,Other,Local,,7000.0,7500.0,7255.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.110196Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Ahilyanagar,Wheat,Other,FAQ,,2800.0,3000.0,2900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.211619Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Jamkhed,Black Gram(Urd Beans)(Whole),Other,FAQ,,9000.0,9500.0,9250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.074959Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Jamkhed,Green Gram(Moong)(Whole),Other,FAQ,,8800.0,9000.0,8900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.074480Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Jamkhed,Maize,Other,FAQ,,2500.0,2700.0,2600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.272869Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Jamkhed,Soyabean,Yellow,FAQ,,7000.0,7600.0,7300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.988246Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Jamkhed,Wheat,Other,FAQ,,2650.0,2850.0,2750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.272522Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Karjat,Bajra(Pearl Millet/Cumbu),Other,FAQ,,3000.0,3700.0,3400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.820466Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Karjat,Black Gram(Urd Beans)(Whole),Other,FAQ,,9000.0,9500.0,9250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.244268Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Karjat,Maize,Other,FAQ,,2500.0,3100.0,2800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.821190Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Karjat,Onion,Local,Local,,1000.0,4000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.140557Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Kopargaon,Bengal Gram(Gram)(Whole),Other,FAQ,,5960.0,6900.0,6500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.026894Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Kopargaon,Maize,Other,FAQ,,2500.0,3035.0,2961.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.136067Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Kopargaon,Onion,Red,Local,,1500.0,4301.0,3900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.901564Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Kopargaon,Onion,Unhali,Local,,1500.0,4560.0,4100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.136538Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Kopargaon,Soyabean,Other,Local,,7400.0,7640.0,7575.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.027313Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Kopargaon,Wheat,Other,FAQ,,2800.0,3262.0,3200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.026474Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Parner,Onion,Red,Local,,1000.0,5700.0,4200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.261130Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Beans,Other,Local,,2000.0,2000.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.072702Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Beetroot,Other,Local,,2000.0,2000.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.179237Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Bengal Gram(Gram)(Whole),Other,Non-FAQ,,5500.0,5500.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.895339Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Bhindi(Ladies Finger),Other,Local,,4000.0,4500.0,4250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.896164Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Bitter gourd,Other,Local,,1000.0,2000.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.179673Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Bottle gourd,Other,Local,,500.0,1300.0,900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.072199Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Cabbage,Other,Local,,600.0,600.0,600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.271693Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Carrot,Other,Local,,2000.0,2000.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.986823Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Cauliflower,Other,Local,,500.0,1000.0,750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.271059Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Chilly Capsicum,Other,Local,,1000.0,1500.0,1250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.896980Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Cucumbar(Kheera),Other,Local,,1000.0,2500.0,1750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.271500Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Drumstick,Other,Local,,1000.0,2000.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.898277Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Garlic,Other,Local,,8000.0,12000.0,10000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.896573Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Ginger(Green),Other,Local,,5000.0,6000.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.071280Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Green Chilli,Other,Local,,2000.0,4000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.987667Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Green Peas,Other,Local,,5000.0,6000.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.178322Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Guar,Other,Local,,6000.0,6000.0,6000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.271280Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Guava,Other,Local,,1500.0,4500.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.178792Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Lime,Other,Local,,8000.0,8000.0,8000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.986358Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Methi(Leaves),Other,Local,,5.0,7.0,6.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.073559Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Onion,Other,Local,,800.0,5100.0,3700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.073133Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Orange,Other,Local,,500.0,3000.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.270670Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Pomegranate,Other,Local,,1000.0,22500.0,7200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.985886Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Potato,Other,Local,,1000.0,1300.0,1150.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.071674Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Ridgeguard(Tori),Other,Local,,1000.0,4500.0,2750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.271880Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Seetapal,Other,Local,,2000.0,7500.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.270865Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Soyabean,Other,Local,,7151.0,7590.0,7375.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.895742Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Spinach,Other,Local,,8.0,10.0,9.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.897398Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Sweet Potato,Other,Local,,2500.0,3000.0,2750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.897836Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Tomato,Other,Local,,500.0,1700.0,1100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.987249Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahata,Wheat,Other,FAQ,,3200.0,3200.0,3200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.270511Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Rahuri,Tomato,Other,Local,,500.0,1500.0,1000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.160302Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Sangamner,Onion,Red,Local,,1200.0,5200.0,2650.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.069278Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Sangamner,Onion,Unhali,Local,,1000.0,4000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.900757Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Sangamner,Pomegranate,Other,Local,,1000.0,10000.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.174681Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Sangamner,Tomato,Other,Local,,250.0,1250.0,750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.069719Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shevgaon,Bajra(Pearl Millet/Cumbu),Other,FAQ,,3000.0,3000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.273105Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shevgaon,Wheat,Maharashtra 2189,FAQ,,3000.0,3000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.273352Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Bhindi(Ladies Finger),Other,Local,,3500.0,4500.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.903208Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Bitter gourd,Other,Local,,1500.0,2500.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.138745Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Bottle gourd,Other,Local,,500.0,700.0,600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.029015Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Brinjal,Other,Local,,1000.0,2000.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.140081Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Cabbage,Other,Local,,300.0,500.0,400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.139192Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Cauliflower,Other,Local,,400.0,600.0,500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.243369Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Chikoos(Sapota),Other,Local,,3000.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.027752Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Chilly Capsicum,Other,Local,,2000.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.904024Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Cucumbar(Kheera),Other,Local,,1500.0,2500.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.138295Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Drumstick,Other,Local,,2000.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.904450Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Garlic,Other,Local,,8000.0,12000.0,10000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.029458Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Ginger(Green),Other,Local,,3000.0,6000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.902386Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Green Chilli,Other,Local,,2500.0,3500.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.819739Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Guar,Other,Local,,6000.0,7000.0,6500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.137860Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Guava,Other,Local,,2000.0,2500.0,2250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.137419Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Lime,Other,Local,,6000.0,8000.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.901966Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Methi(Leaves),Other,Local,,5.0,10.0,7.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.903620Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Mousambi(Sweet Lime),Other,Local,,2500.0,3500.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.136981Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Papaya,Other,Local,,1500.0,2000.0,1750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.028606Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Peas Wet,Other,Local,,5000.0,7000.0,6000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.030116Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Potato,Other,Local,,1000.0,1500.0,1250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.902806Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Ridgeguard(Tori),Other,Local,,2000.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.243805Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Spinach,Other,Local,,5.0,6.0,5.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.139643Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Tomato,Other,Local,,1000.0,1500.0,1250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.905147Z
+2026-11-20,Maharashtra,Ahilyanagar,APMC Shrirampur,Water Melon,Other,Local,,1000.0,1200.0,1100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.028178Z
+2026-11-20,Maharashtra,Ahilyanagar,Karjat(Rashin),Maize,Yellow,FAQ,,3000.0,3100.0,3050.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.135188Z
+2026-11-20,Maharashtra,Ahilyanagar,"Omchatinya Multi State Agro Purpose Co-Op Society, Dist Ahilyanagar",Bajra(Pearl Millet/Cumbu),Other,Local,,3500.0,3800.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.881954Z
+2026-11-20,Maharashtra,Ahilyanagar,"Omchatinya Multi State Agro Purpose Co-Op Society, Dist Ahilyanagar",Black Gram(Urd Beans)(Whole),Other,Local,,9400.0,9500.0,9400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.131473Z
+2026-11-20,Maharashtra,Ahilyanagar,"Omchatinya Multi State Agro Purpose Co-Op Society, Dist Ahilyanagar",Maize,Other,Local,,2900.0,3100.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.020082Z
+2026-11-20,Maharashtra,Ahilyanagar,"Omchatinya Multi State Agro Purpose Co-Op Society, Dist Ahilyanagar",Onion,Other,Local,,800.0,5500.0,4200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.881229Z
+2026-11-20,Maharashtra,Ahilyanagar,"Omchatinya Multi State Agro Purpose Co-Op Society, Dist Ahilyanagar",Red gram/Arhar/Tur(whole),Other,Local,,9500.0,9500.0,9500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.882663Z
+2026-11-20,Maharashtra,Ahilyanagar,"Omchatinya Multi State Agro Purpose Co-Op Society, Dist Ahilyanagar",Soyabean,Other,Local,,7400.0,7500.0,7400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.880464Z
+2026-11-20,Maharashtra,Ahilyanagar,"Omchatinya Multi State Agro Purpose Co-Op Society, Dist Ahilyanagar",Wheat,Other,Local,,3000.0,3300.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.019899Z
+2026-11-20,Maharashtra,Ahilyanagar,Rahuri(Vambori),Bengal Gram(Gram)(Whole),Other,FAQ,,7151.0,7151.0,7151.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.915841Z
+2026-11-20,Maharashtra,Ahilyanagar,Rahuri(Vambori),Maize,Other,FAQ,,2800.0,2800.0,2800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.161179Z
+2026-11-20,Maharashtra,Ahilyanagar,Rahuri(Vambori),Wheat,Other,FAQ,,2790.0,3850.0,3308.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.160749Z
+2026-11-20,Maharashtra,Ahilyanagar,Shevgaon(Bodhegaon),Bajra(Pearl Millet/Cumbu),Other,Non-FAQ,,2700.0,2800.0,2800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.030626Z
+2026-11-20,Maharashtra,Ahilyanagar,Shevgaon(Bodhegaon),Wheat,Maharashtra 2189,FAQ,,3100.0,3100.0,3100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.244719Z
+2026-11-20,Maharashtra,Akola,APMC Akola,Bajra(Pearl Millet/Cumbu),Other,Non-FAQ,,2500.0,2500.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.245170Z
+2026-11-20,Maharashtra,Akola,APMC Akola,Bengal Gram(Gram)(Whole),Other,FAQ,,6400.0,7635.0,7200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.821963Z
+2026-11-20,Maharashtra,Akola,APMC Akola,Chili Red,Other,Local,,18000.0,25000.0,21000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.143705Z
+2026-11-20,Maharashtra,Akola,APMC Akola,Cotton,Desi,Local,,9475.0,9579.0,9527.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.141003Z
+2026-11-20,Maharashtra,Akola,APMC Akola,Garlic,Other,Local,,10000.0,20000.0,15000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.822923Z
+2026-11-20,Maharashtra,Akola,APMC Akola,Ginger(Green),Other,Local,,3500.0,5000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.143259Z
+2026-11-20,Maharashtra,Akola,APMC Akola,Green Gram(Moong)(Whole),Green (Whole),Non-FAQ,,4200.0,7400.0,6800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.141888Z
+2026-11-20,Maharashtra,Akola,APMC Akola,Jowar(Sorghum),Other,Non-FAQ,,2825.0,3055.0,2990.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.141439Z
+2026-11-20,Maharashtra,Akola,APMC Akola,Maize,Yellow,FAQ,,2800.0,3175.0,2987.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.246036Z
+2026-11-20,Maharashtra,Akola,APMC Akola,Onion,Other,Local,,2000.0,4500.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.905893Z
+2026-11-20,Maharashtra,Akola,APMC Akola,Potato,Other,Local,,500.0,1200.0,800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.246500Z
+2026-11-20,Maharashtra,Akola,APMC Akola,Red gram/Arhar/Tur(whole),Other,FAQ,,8500.0,10350.0,9900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.822601Z
+2026-11-20,Maharashtra,Akola,APMC Akola,Safflower,Other,Non-FAQ,,6305.0,6305.0,6305.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.142333Z
+2026-11-20,Maharashtra,Akola,APMC Akola,Soyabean,Yellow,FAQ,,6500.0,7750.0,7550.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.142811Z
+2026-11-20,Maharashtra,Akola,APMC Akola,Wheat,Other,FAQ,,2905.0,3275.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.245601Z
+2026-11-20,Maharashtra,Akola,APMC Akola,Wheat,Sharbati,FAQ,,3450.0,4200.0,3900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.905596Z
+2026-11-20,Maharashtra,Akola,APMC Barshi Takli,Soyabean,Yellow,FAQ,,7100.0,7550.0,7300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.906496Z
+2026-11-20,Maharashtra,Akola,APMC Murtizapur,Bengal Gram(Gram)(Whole),Other,FAQ,,6800.0,7680.0,7240.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.906109Z
+2026-11-20,Maharashtra,Akola,APMC Murtizapur,Green Gram(Moong)(Whole),Green (Whole),Non-FAQ,,7800.0,8000.0,7900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.823152Z
+2026-11-20,Maharashtra,Akola,APMC Murtizapur,Red gram/Arhar/Tur(whole),Other,FAQ,,9600.0,10185.0,9895.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.906312Z
+2026-11-20,Maharashtra,Akola,APMC Murtizapur,Soyabean,Yellow,FAQ,,6700.0,7750.0,7225.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.144128Z
+2026-11-20,Maharashtra,Akola,APMC Murtizapur,Wheat,Other,FAQ,,2800.0,3095.0,2950.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.031162Z
+2026-11-20,Maharashtra,Akola,APMC Patur,Soyabean,Other,Local,,7450.0,7755.0,7670.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.991532Z
+2026-11-20,Maharashtra,Akola,APMC Patur,Wheat,Maharashtra 2189,Non-FAQ,,1900.0,1900.0,1900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.845303Z
+2026-11-20,Maharashtra,Akola,Akola(Borgaon Manju),Cotton,Desi,Local,,9350.0,9600.0,9475.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.213912Z
+2026-11-20,Maharashtra,Amarawati,APMC Amarawati,Bajra(Pearl Millet/Cumbu),Other,Non-FAQ,,2400.0,2700.0,2550.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.246945Z
+2026-11-20,Maharashtra,Amarawati,APMC Amarawati,Bengal Gram(Gram)(Whole),Other,FAQ,,7100.0,7500.0,7300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.032581Z
+2026-11-20,Maharashtra,Amarawati,APMC Amarawati,Black Gram(Urd Beans)(Whole),Other,Non-FAQ,,7800.0,8195.0,7997.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.823710Z
+2026-11-20,Maharashtra,Amarawati,APMC Amarawati,Cotton,Other,Local,,9000.0,9300.0,9200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.032046Z
+2026-11-20,Maharashtra,Amarawati,APMC Amarawati,Green Gram(Moong)(Whole),Other,Non-FAQ,,8000.0,8500.0,8250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.823352Z
+2026-11-20,Maharashtra,Amarawati,APMC Amarawati,Jowar(Sorghum),Other,Local,,2600.0,3000.0,2800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.247385Z
+2026-11-20,Maharashtra,Amarawati,APMC Amarawati,Maize,Deshi Red,FAQ,,2800.0,2925.0,2862.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.247818Z
+2026-11-20,Maharashtra,Amarawati,APMC Amarawati,Red gram/Arhar/Tur(whole),Other,FAQ,,9800.0,10511.0,10155.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.823537Z
+2026-11-20,Maharashtra,Amarawati,APMC Amarawati,"Sesamum(Sesame,Gingelly,Til)",White,FAQ,,13000.0,14000.0,13500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.823917Z
+2026-11-20,Maharashtra,Amarawati,APMC Amarawati,Soyabean,Other,Local,,7400.0,7750.0,7575.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.144965Z
+2026-11-20,Maharashtra,Amarawati,APMC Amarawati,Wheat,Other,FAQ,,2610.0,3000.0,2805.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.144550Z
+2026-11-20,Maharashtra,Amarawati,APMC Anajngaon,Bengal Gram(Gram)(Whole),Other,Non-FAQ,,5700.0,5950.0,5800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.082573Z
+2026-11-20,Maharashtra,Amarawati,APMC Anajngaon,Red gram/Arhar/Tur(whole),Other,Non-FAQ,,8200.0,8400.0,8300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.189413Z
+2026-11-20,Maharashtra,Amarawati,APMC Anajngaon,"Sesamum(Sesame,Gingelly,Til)",White,Non-FAQ,,10300.0,10300.0,10300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.992093Z
+2026-11-20,Maharashtra,Amarawati,APMC Anajngaon,Soyabean,Yellow,Non-FAQ,,5500.0,5700.0,5600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.845685Z
+2026-11-20,Maharashtra,Amarawati,APMC Chandur Bazar,Bengal Gram(Gram)(Whole),Other,FAQ,,6900.0,7400.0,7250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.263095Z
+2026-11-20,Maharashtra,Amarawati,APMC Chandur Bazar,Maize,Other,FAQ,,2600.0,2900.0,2820.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.262915Z
+2026-11-20,Maharashtra,Amarawati,APMC Chandur Bazar,Red gram/Arhar/Tur(whole),Other,FAQ,,9700.0,10300.0,10000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.053212Z
+2026-11-20,Maharashtra,Amarawati,APMC Chandur Bazar,Soyabean,Yellow,FAQ,,7300.0,7700.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.834181Z
+2026-11-20,Maharashtra,Amarawati,APMC Chandur Bazar,Wheat,Other,FAQ,,2630.0,2900.0,2760.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.262731Z
+2026-11-20,Maharashtra,Amarawati,APMC Dhamngaon-Railway,Bengal Gram(Gram)(Whole),Average (Whole),FAQ,,7060.0,7580.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.943494Z
+2026-11-20,Maharashtra,Amarawati,APMC Dhamngaon-Railway,Cotton,LRA,FAQ,,9200.0,9250.0,9200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.095257Z
+2026-11-20,Maharashtra,Amarawati,APMC Dhamngaon-Railway,Red gram/Arhar/Tur(whole),Other,FAQ,,9850.0,10460.0,10200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.000464Z
+2026-11-20,Maharashtra,Amarawati,APMC Dhamngaon-Railway,Soyabean,Yellow,FAQ,,7390.0,7700.0,7600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.000928Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Beetroot,Other,Local,,2000.0,2500.0,2250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.033519Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Bhindi(Ladies Finger),Other,Local,,2500.0,3000.0,2750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.824135Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Bitter gourd,Other,Local,,3000.0,3500.0,3250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.034454Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Brinjal,Other,Local,,1500.0,2000.0,1750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.146666Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Cabbage,Other,Local,,800.0,1000.0,900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.145368Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Carrot,Other,Local,,3500.0,4000.0,3750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.907031Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Cauliflower,Other,Local,,1500.0,2000.0,1750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.906864Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Chilly Capsicum,Other,Local,,2500.0,3000.0,2750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.146215Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Coriander(Leaves),Other,Local,,2000.0,2500.0,2250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.145778Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Cucumbar(Kheera),Other,Local,,2500.0,3000.0,2750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.907281Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Garlic,Other,Local,,8000.0,20000.0,14000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.248733Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Green),Other,Local,,5000.0,6500.0,5750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.906677Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Green Chilli,Other,Local,,2500.0,3000.0,2750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.147101Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Guar,Other,Local,,4500.0,5000.0,4750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.033994Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Methi(Leaves),Other,Local,,3000.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.907731Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Onion,Red,Local,,3500.0,4500.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.248278Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Peas Wet,Other,Local,,4500.0,5000.0,4750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.250069Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Potato,Local,Local,,800.0,1500.0,1150.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.033042Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Pumpkin,Other,Local,,1600.0,2000.0,1800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.034906Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Spinach,Other,Local,,1000.0,1500.0,1250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.249169Z
+2026-11-20,Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Tomato,Local,Local,,2000.0,2500.0,2250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.249627Z
+2026-11-20,Maharashtra,Amarawati,Varud(Rajura Bazar),Bengal Gram(Gram)(Whole),Other,FAQ,,7470.0,7550.0,7505.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.817506Z
+2026-11-20,Maharashtra,Amarawati,Varud(Rajura Bazar),Green Chilli,Other,Local,,1800.0,1800.0,1800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.901159Z
+2026-11-20,Maharashtra,Amarawati,Varud(Rajura Bazar),Maize,Other,FAQ,,2775.0,2775.0,2775.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.175133Z
+2026-11-20,Maharashtra,Amarawati,Varud(Rajura Bazar),Soyabean,Yellow,FAQ,,7000.0,7620.0,7560.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.818252Z
+2026-11-20,Maharashtra,Amarawati,Varud(Rajura Bazar),Wheat,Other,Non-FAQ,,2500.0,2500.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.816702Z
+2026-11-20,Maharashtra,Beed,APMC Ambejogai,Soyabean,Yellow,FAQ,,7700.0,7780.0,7750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.250538Z
+2026-11-20,Maharashtra,Beed,APMC Beed,Bajra(Pearl Millet/Cumbu),Other,FAQ,,3320.0,8900.0,5220.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.133808Z
+2026-11-20,Maharashtra,Beed,APMC Beed,Green Gram(Moong)(Whole),Green (Whole),Non-FAQ,,7110.0,7110.0,7110.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.025138Z
+2026-11-20,Maharashtra,Beed,APMC Beed,Jowar(Sorghum),Other,FAQ,,4100.0,6500.0,5362.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.241997Z
+2026-11-20,Maharashtra,Beed,APMC Beed,Soyabean,Yellow,FAQ,,7651.0,7770.0,7724.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.134268Z
+2026-11-20,Maharashtra,Beed,APMC Beed,Wheat,Other,FAQ,,3000.0,4100.0,3248.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.024699Z
+2026-11-20,Maharashtra,Beed,APMC Kille Dharur,Bajra(Pearl Millet/Cumbu),Other,FAQ,,2900.0,2900.0,2900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.067942Z
+2026-11-20,Maharashtra,Beed,APMC Kille Dharur,Bengal Gram(Gram)(Whole),Other,FAQ,,6500.0,6969.0,6900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.173773Z
+2026-11-20,Maharashtra,Beed,APMC Kille Dharur,Black Gram(Urd Beans)(Whole),Other,Non-FAQ,,7900.0,7900.0,7900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.839676Z
+2026-11-20,Maharashtra,Beed,APMC Kille Dharur,Cotton,Other,FAQ,,9406.0,9450.0,9423.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.839484Z
+2026-11-20,Maharashtra,Beed,APMC Kille Dharur,Jowar(Sorghum),Red,Local,,4000.0,6900.0,4951.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.931028Z
+2026-11-20,Maharashtra,Beed,APMC Kille Dharur,Soyabean,Yellow,FAQ,,7300.0,7900.0,7800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.839857Z
+2026-11-20,Maharashtra,Beed,APMC Kille Dharur,Wheat,Other,FAQ,,2900.0,3000.0,2900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.068384Z
+2026-11-20,Maharashtra,Beed,APMC Kille Dharur,Wheat,Other,Non-FAQ,,2490.0,2490.0,2490.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.269773Z
+2026-11-20,Maharashtra,Beed,APMC Majalgaon,Bajra(Pearl Millet/Cumbu),Other,FAQ,,2951.0,6500.0,3351.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.250985Z
+2026-11-20,Maharashtra,Beed,APMC Majalgaon,Bengal Gram(Gram)(Whole),Other,FAQ,,6000.0,7600.0,7400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.035884Z
+2026-11-20,Maharashtra,Beed,APMC Majalgaon,Green Gram(Moong)(Whole),Green (Whole),FAQ,,8790.0,9700.0,9500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.036350Z
+2026-11-20,Maharashtra,Beed,APMC Majalgaon,Jowar(Sorghum),Red,Local,,2560.0,6601.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.147998Z
+2026-11-20,Maharashtra,Beed,APMC Majalgaon,Red gram/Arhar/Tur(whole),Other,FAQ,,9000.0,10000.0,9701.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.908191Z
+2026-11-20,Maharashtra,Beed,APMC Majalgaon,Soyabean,Other,Local,,6500.0,7811.0,7700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.147558Z
+2026-11-20,Maharashtra,Beed,APMC Majalgaon,Wheat,Other,FAQ,,2700.0,3751.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.035401Z
+2026-11-20,Maharashtra,Buldhana,APMC Chikali,Bengal Gram(Gram)(Whole),Average (Whole),FAQ,,6300.0,7000.0,6650.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.984913Z
+2026-11-20,Maharashtra,Buldhana,APMC Chikali,Bengal Gram(Gram)(Whole),Kabul Small,FAQ,,6700.0,8600.0,7650.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.984443Z
+2026-11-20,Maharashtra,Buldhana,APMC Chikali,Soyabean,Yellow,FAQ,,7450.0,8051.0,7750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.022046Z
+2026-11-20,Maharashtra,Buldhana,APMC Deoulgaon Raja,Bengal Gram(Gram)(Whole),Other,FAQ,,6400.0,6400.0,6400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.075827Z
+2026-11-20,Maharashtra,Buldhana,APMC Deoulgaon Raja,Cotton,Desi,Local,,9500.0,9630.0,9500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.075391Z
+2026-11-20,Maharashtra,Buldhana,APMC Deoulgaon Raja,Jowar(Sorghum),Other,Local,,4000.0,4000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.012171Z
+2026-11-20,Maharashtra,Buldhana,APMC Deoulgaon Raja,Jowar(Sorghum),Other,Non-FAQ,,2400.0,2400.0,2400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.012544Z
+2026-11-20,Maharashtra,Buldhana,APMC Deoulgaon Raja,Soyabean,Yellow,FAQ,,7600.0,7601.0,7600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.076238Z
+2026-11-20,Maharashtra,Buldhana,APMC Khamgaon,Bengal Gram(Gram)(Whole),Average (Whole),FAQ,,6300.0,7250.0,6775.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.251438Z
+2026-11-20,Maharashtra,Buldhana,APMC Khamgaon,Black Gram(Urd Beans)(Whole),Other,FAQ,,9200.0,9200.0,9200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.908491Z
+2026-11-20,Maharashtra,Buldhana,APMC Khamgaon,Cotton,Other,FAQ,,9000.0,9200.0,9100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.148418Z
+2026-11-20,Maharashtra,Buldhana,APMC Khamgaon,Green Gram(Moong)(Whole),Other,Non-FAQ,,6950.0,6950.0,6950.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.148857Z
+2026-11-20,Maharashtra,Buldhana,APMC Khamgaon,Red gram/Arhar/Tur(whole),Other,FAQ,,9300.0,10350.0,9825.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.149311Z
+2026-11-20,Maharashtra,Buldhana,APMC Khamgaon,Red gram/Arhar/Tur(whole),Other,Non-FAQ,,7800.0,7800.0,7800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.037294Z
+2026-11-20,Maharashtra,Buldhana,APMC Khamgaon,Soyabean,Yellow,FAQ,,6700.0,7775.0,7238.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.824338Z
+2026-11-20,Maharashtra,Buldhana,APMC Khamgaon,Wheat,Other,FAQ,,2900.0,2900.0,2900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.036835Z
+2026-11-20,Maharashtra,Buldhana,APMC Lonar,Bengal Gram(Gram)(Whole),Other,FAQ,,7000.0,7215.0,7100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.824535Z
+2026-11-20,Maharashtra,Buldhana,APMC Lonar,Jowar(Sorghum),Other,Non-FAQ,,2600.0,2700.0,2650.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.037777Z
+2026-11-20,Maharashtra,Buldhana,APMC Lonar,Maize,Yellow,FAQ,,2600.0,2750.0,2675.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.038249Z
+2026-11-20,Maharashtra,Buldhana,APMC Lonar,Red gram/Arhar/Tur(whole),Other,FAQ,,9300.0,9700.0,9500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.149829Z
+2026-11-20,Maharashtra,Buldhana,APMC Lonar,Soyabean,Yellow,FAQ,,7500.0,7740.0,7625.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.150279Z
+2026-11-20,Maharashtra,Buldhana,APMC Lonar,Wheat,Other,FAQ,,2800.0,2950.0,2875.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.908655Z
+2026-11-20,Maharashtra,Buldhana,APMC Mehekar,Bengal Gram(Gram)(Whole),Other,FAQ,,6500.0,7200.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.218772Z
+2026-11-20,Maharashtra,Buldhana,APMC Mehekar,Red gram/Arhar/Tur(whole),Other,FAQ,,9000.0,9700.0,9550.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.219191Z
+2026-11-20,Maharashtra,Buldhana,APMC Mehekar,Soyabean,Other,Local,,6800.0,7880.0,7650.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.872764Z
+2026-11-20,Maharashtra,Buldhana,APMC Mehekar,Wheat,Other,FAQ,,2700.0,3600.0,3300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.965311Z
+2026-11-20,Maharashtra,Buldhana,APMC Nandura,Bengal Gram(Gram)(Whole),Other,FAQ,,6500.0,7140.0,6940.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.908828Z
+2026-11-20,Maharashtra,Buldhana,APMC Nandura,Jowar(Sorghum),Other,Non-FAQ,,2601.0,3000.0,2825.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.150750Z
+2026-11-20,Maharashtra,Buldhana,APMC Nandura,Maize,Other,FAQ,,2651.0,3030.0,2905.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.824750Z
+2026-11-20,Maharashtra,Buldhana,APMC Nandura,Red gram/Arhar/Tur(whole),Other,FAQ,,9550.0,10400.0,10050.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.252350Z
+2026-11-20,Maharashtra,Buldhana,APMC Nandura,Soyabean,Yellow,FAQ,,7301.0,8090.0,7800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.909027Z
+2026-11-20,Maharashtra,Buldhana,APMC Nandura,Wheat,Other,FAQ,,2720.0,3200.0,3001.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.251881Z
+2026-11-20,Maharashtra,Buldhana,"Acf Agro Marketing, Malkapur, Dist Buldhana",Cotton,Other,Local,,8900.0,9000.0,8987.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.213472Z
+2026-11-20,Maharashtra,Buldhana,"Bsk Krishi Bazar Private Limited, Mehkar, Dist Buldhana",Bengal Gram(Gram)(Whole),Other,Local,,7110.0,7110.0,7110.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.213025Z
+2026-11-20,Maharashtra,Buldhana,"Bsk Krishi Bazar Private Limited, Mehkar, Dist Buldhana",Soyabean,Other,Local,,6200.0,7670.0,7516.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.894524Z
+2026-11-20,Maharashtra,Buldhana,Jalgaon Jamod(Aasalgaon),Bengal Gram(Gram)(Whole),Average (Whole),FAQ,,7000.0,7200.0,7100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.151649Z
+2026-11-20,Maharashtra,Buldhana,Jalgaon Jamod(Aasalgaon),Jowar(Sorghum),Other,Non-FAQ,,2500.0,2800.0,2600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.038884Z
+2026-11-20,Maharashtra,Buldhana,Jalgaon Jamod(Aasalgaon),Maize,Yellow,FAQ,,2700.0,2900.0,2800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.151202Z
+2026-11-20,Maharashtra,Buldhana,Jalgaon Jamod(Aasalgaon),Red gram/Arhar/Tur(whole),Other,FAQ,,9800.0,10200.0,9900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.909215Z
+2026-11-20,Maharashtra,Buldhana,Jalgaon Jamod(Aasalgaon),Soyabean,Yellow,FAQ,,7500.0,7700.0,7600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.909396Z
+2026-11-20,Maharashtra,Buldhana,Jalgaon Jamod(Aasalgaon),Wheat,Maharashtra 2189,FAQ,,2800.0,3000.0,2900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.252797Z
+2026-11-20,Maharashtra,Buldhana,"Maharaja Agresen Pvt Krushi Utappan Bazar Samati, Dist Buldhana",Maize,Other,Local,,2600.0,2900.0,2654.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.021782Z
+2026-11-20,Maharashtra,Buldhana,"Maharaja Agresen Pvt Krushi Utappan Bazar Samati, Dist Buldhana",Soyabean,Other,Local,,7500.0,8000.0,7671.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.212570Z
+2026-11-20,Maharashtra,Buldhana,"Maharaja Agresen Pvt Krushi Utappan Bazar Samati, Dist Buldhana",Wheat,Other,Local,,2500.0,3000.0,2777.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.985382Z
+2026-11-20,Maharashtra,Chandrapur,APMC  Rajura,Soyabean,Yellow,FAQ,,7801.0,7840.0,7811.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.253240Z
+2026-11-20,Maharashtra,Chandrapur,APMC Chandrapur,Soyabean,Other,Local,,7350.0,7600.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.824983Z
+2026-11-20,Maharashtra,Chandrapur,APMC Gondpimpri,Paddy(Common),Other,FAQ,,3550.0,3800.0,3700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.152097Z
+2026-11-20,Maharashtra,Chandrapur,APMC Savali,Paddy(Common),Other,FAQ,,3400.0,3670.0,3520.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.889655Z
+2026-11-20,Maharashtra,Chandrapur,APMC Sindevahi,Paddy(Common),Other,FAQ,,2600.0,2650.0,2600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.025586Z
+2026-11-20,Maharashtra,Chandrapur,APMC Varora,Cotton,Desi,Local,,8925.0,9075.0,9000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.020857Z
+2026-11-20,Maharashtra,Chandrapur,APMC Varora,Soyabean,Yellow,FAQ,,7450.0,7650.0,7550.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.021096Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Bhindi(Ladies Finger),Other,Local,,2000.0,2500.0,2200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.152564Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Bitter gourd,Other,Local,,1000.0,3000.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.254188Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Brinjal,Other,Local,,1000.0,2000.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.039896Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Cabbage,Other,Local,,400.0,1000.0,500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.254610Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Carrot,Other,Local,,2000.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.909597Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Cauliflower,Other,Local,,800.0,1500.0,1000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.039419Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Coriander(Leaves),Other,Local,,2000.0,4000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.825592Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Cucumbar(Kheera),Other,Local,,1000.0,2000.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.825205Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Garlic,Other,Local,,15300.0,21000.0,19000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.255016Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Ginger(Green),Other,Local,,7200.0,7700.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.253759Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Green Chilli,Other,Local,,1000.0,2000.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.040363Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Methi(Leaves),Other,Local,,2000.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.825775Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Peas Wet,Other,Local,,3000.0,5000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.909786Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Pumpkin,Other,Local,,2000.0,2000.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.825404Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Raddish,Other,Local,,1000.0,2000.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.255456Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Spinach,Other,Local,,1000.0,2000.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.825976Z
+2026-11-20,Maharashtra,Chandrapur,Chandrapur(Ganjwad),Tomato,Other,Local,,800.0,1600.0,1200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.255885Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Chattrapati Sambhajinagar,Maize,Yellow,FAQ,,2611.0,3161.0,2886.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.256311Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Chattrapati Sambhajinagar,Maize,Yellow,Non-FAQ,,2066.0,2331.0,2198.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.826171Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Chattrapati Sambhajinagar,Soyabean,Other,Local,,7200.0,7561.0,7380.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.910026Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Chattrapati Sambhajinagar,Wheat,Other,FAQ,,2877.0,3300.0,3088.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.153033Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Gangapur,Bajra(Pearl Millet/Cumbu),Other,FAQ,,2900.0,3451.0,3216.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.931629Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Gangapur,Bengal Gram(Gram)(Whole),Other,FAQ,,7000.0,7000.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.932189Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Gangapur,Jowar(Sorghum),Other,Non-FAQ,,2675.0,2675.0,2675.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.840220Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Gangapur,Maize,Yellow,FAQ,,2700.0,3040.0,2922.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.840410Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Gangapur,Soyabean,Yellow,FAQ,,6000.0,7300.0,6823.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.841065Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Gangapur,Wheat,Other,FAQ,,3044.0,3790.0,3416.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.840038Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Sillod,Maize,Yellow,FAQ,,2800.0,3000.0,2900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.829495Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Sillod,Soyabean,Other,Local,,7200.0,7500.0,7400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.258855Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Sillod,Wheat,Other,FAQ,,2800.0,3000.0,2900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.258356Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Vaijpur,Bajra(Pearl Millet/Cumbu),Other,FAQ,,2905.0,3105.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.807632Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Vaijpur,Bajra(Pearl Millet/Cumbu),Other,Non-FAQ,,2515.0,2890.0,2800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.813700Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Vaijpur,Bengal Gram(Gram)(Whole),Other,FAQ,,6000.0,7100.0,6200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.240634Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Vaijpur,Black Gram(Urd Beans)(Whole),Other,FAQ,,8855.0,8855.0,8855.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.898697Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Vaijpur,Green Gram(Moong)(Whole),Other,Non-FAQ,,8300.0,8700.0,8600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.241090Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Vaijpur,Groundnut,Other,Non-FAQ,,5655.0,7500.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.023743Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Vaijpur,Jowar(Sorghum),Other,Local,,2475.0,2475.0,2475.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.133296Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Vaijpur,Onion,Red,Local,,1700.0,4770.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.899108Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Vaijpur,Onion,Unhali,Local,,1500.0,4600.0,3900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.241546Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Vaijpur,Soyabean,Other,Local,,7000.0,7750.0,7700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.024242Z
+2026-11-20,Maharashtra,Chattrapati Sambhajinagar,APMC Vaijpur,Wheat,Other,FAQ,,2800.0,3505.0,2985.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.814316Z
+2026-11-20,Maharashtra,Dharashiv,APMC Bhoom,Soyabean,Yellow,FAQ,,7000.0,7000.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.256718Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Beans,Other,Local,,1000.0,2500.0,1850.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.040819Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Bitter gourd,Other,Local,,1500.0,6000.0,3750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.829105Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Brinjal,Other,Local,,600.0,4500.0,2550.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.828595Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Cabbage,Other,Local,,600.0,1000.0,800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.257928Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Carrot,Other,Local,,3000.0,6000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.257529Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Cauliflower,Other,Local,,600.0,2500.0,1550.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.826541Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Chikoos(Sapota),Other,Local,,1500.0,4300.0,2900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.910226Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Coriander(Leaves),Other,Local,,200.0,900.0,550.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.910968Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Cucumbar(Kheera),Other,Local,,600.0,4000.0,2300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.910601Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Drumstick,Other,Local,,1500.0,4800.0,3150.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.828067Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Green Chilli,Other,Local,,1500.0,5000.0,3250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.910792Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Lime,Other,Local,,2000.0,5000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.257123Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Methi(Leaves),Other,Local,,800.0,1200.0,1000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.827428Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Mousambi(Sweet Lime),Other,Local,,3000.0,3000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.910425Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Onion,Red,Local,,1200.0,4500.0,2850.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.826751Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Sweet Potato,Other,Local,,3200.0,4500.0,3850.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.827652Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Sweet Pumpkin,Other,Local,,450.0,1300.0,875.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.826356Z
+2026-11-20,Maharashtra,Dharashiv,APMC Dharashiv,Tomato,Other,Local,,600.0,2000.0,1300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.153495Z
+2026-11-20,Maharashtra,Dharashiv,APMC Murum,Bengal Gram(Gram)(Whole),Other,FAQ,,6300.0,7401.0,6806.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.838306Z
+2026-11-20,Maharashtra,Dharashiv,APMC Murum,Black Gram(Urd Beans)(Whole),Other,FAQ,,8694.0,9100.0,8897.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.268253Z
+2026-11-20,Maharashtra,Dharashiv,APMC Murum,Green Gram(Moong)(Whole),Green (Whole),FAQ,,8800.0,8800.0,8800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.171947Z
+2026-11-20,Maharashtra,Dharashiv,APMC Murum,Safflower,Other,Non-FAQ,,6201.0,6201.0,6201.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.268424Z
+2026-11-20,Maharashtra,Dharashiv,APMC Murum,Soyabean,Yellow,FAQ,,6700.0,7670.0,7523.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.927260Z
+2026-11-20,Maharashtra,Dharashiv,APMC Paranda,Maize,Other,FAQ,,3050.0,3100.0,3055.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.068831Z
+2026-11-20,Maharashtra,Dharashiv,APMC Tuljapur,Black Gram(Urd Beans)(Whole),Other,FAQ,,8500.0,9500.0,9200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.153934Z
+2026-11-20,Maharashtra,Dharashiv,APMC Tuljapur,Jowar(Sorghum),Jowar ( White),Local,,4000.0,8300.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.829783Z
+2026-11-20,Maharashtra,Dharashiv,APMC Tuljapur,Soyabean,Other,Local,,7000.0,7750.0,7550.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.911384Z
+2026-11-20,Maharashtra,Dharashiv,APMC Tuljapur,Wheat,Other,FAQ,,2650.0,3000.0,2850.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.041265Z
+2026-11-20,Maharashtra,Dharashiv,APMC Washi (Dharashiv),Soyabean,Yellow,FAQ,,7400.0,7700.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.912505Z
+2026-11-20,Maharashtra,Dhule,APMC Dhule,Bajra(Pearl Millet/Cumbu),Other,Non-FAQ,,2450.0,2899.0,2775.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.830035Z
+2026-11-20,Maharashtra,Dhule,APMC Dhule,Maize,Yellow,FAQ,,2700.0,3064.0,2900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.041728Z
+2026-11-20,Maharashtra,Dhule,APMC Dhule,Onion,Red,Local,,1500.0,4300.0,3800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.830266Z
+2026-11-20,Maharashtra,Dhule,APMC Dhule,Soyabean,Other,Local,,6950.0,7415.0,7330.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.911931Z
+2026-11-20,Maharashtra,Dhule,APMC Dondaicha,Bengal Gram(Gram)(Whole),Other,FAQ,,6000.0,7152.0,6750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.894928Z
+2026-11-20,Maharashtra,Dhule,APMC Dondaicha,Bengal Gram(Gram)(Whole),Other,Non-FAQ,,5311.0,5786.0,5700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.177875Z
+2026-11-20,Maharashtra,Dhule,APMC Dondaicha,Jowar(Sorghum),Other,Local,,5020.0,5711.0,5711.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.270349Z
+2026-11-20,Maharashtra,Dhule,APMC Dondaicha,Maize,Yellow,FAQ,,2640.0,2975.0,2850.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.177431Z
+2026-11-20,Maharashtra,Dhule,APMC Dondaicha,Wheat,Other,FAQ,,2800.0,3335.0,3251.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.270177Z
+2026-11-20,Maharashtra,Dhule,APMC Dondaicha,Wheat,Other,Non-FAQ,,2200.0,2200.0,2200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.070634Z
+2026-11-20,Maharashtra,Dhule,APMC Sakri,Maize,Yellow,FAQ,,2640.0,2970.0,2820.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.830449Z
+2026-11-20,Maharashtra,Gadchiroli,APMC Armori,Paddy(Common),Other,FAQ,,2970.0,3890.0,3320.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.259271Z
+2026-11-20,Maharashtra,Gadchiroli,APMC Gadchiroli,Paddy(Common),Other,FAQ,,2960.0,3890.0,3620.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.830629Z
+2026-11-20,Maharashtra,Gondiya,APMC Amgaon,Paddy(Common),Other,FAQ,,2480.0,2581.0,2530.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.042169Z
+2026-11-20,Maharashtra,Gondiya,APMC Amgaon,Paddy(Common),Other,Non-FAQ,,2140.0,2208.0,2174.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.830818Z
+2026-11-20,Maharashtra,Gondiya,APMC Gondiya,Paddy(Common),Other,FAQ,,2560.0,3700.0,3130.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.831013Z
+2026-11-20,Maharashtra,Gondiya,APMC Gondiya,Paddy(Common),Other,Non-FAQ,,2266.0,2280.0,2274.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.154386Z
+2026-11-20,Maharashtra,Gondiya,APMC Goregaon,Paddy(Common),Other,FAQ,,2441.0,2441.0,2441.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.154883Z
+2026-11-20,Maharashtra,Gondiya,APMC Tiroda,Paddy(Common),Other,FAQ,,3500.0,4211.0,3856.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.259537Z
+2026-11-20,Maharashtra,Gondiya,APMC Tiroda,Paddy(Common),Other,Non-FAQ,,2121.0,2181.0,2151.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.042618Z
+2026-11-20,Maharashtra,Hingoli,APMC Akhadabalapur,Cotton,Desi,Local,,9000.0,9500.0,9250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.155352Z
+2026-11-20,Maharashtra,Hingoli,APMC Akhadabalapur,Soyabean,Yellow,FAQ,,7500.0,7700.0,7600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.043055Z
+2026-11-20,Maharashtra,Hingoli,APMC Hingoli,Bengal Gram(Gram)(Whole),Other,FAQ,,6700.0,7350.0,7025.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.047061Z
+2026-11-20,Maharashtra,Hingoli,APMC Hingoli,Soyabean,Other,Local,,7310.0,8170.0,7740.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.832626Z
+2026-11-20,Maharashtra,Hingoli,APMC Hingoli,Turmeric,Other,Local,,19800.0,23300.0,21550.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.159008Z
+2026-11-20,Maharashtra,Hingoli,APMC Hingoli,Wheat,Sharbati,FAQ,,3400.0,4000.0,3700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.832325Z
+2026-11-20,Maharashtra,Hingoli,APMC Sengoan,Soyabean,Yellow,FAQ,,7700.0,8000.0,7800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.912804Z
+2026-11-20,Maharashtra,Hingoli,Hingoli(Kanegoan Naka),Soyabean,Yellow,FAQ,,7500.0,7700.0,7600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.914738Z
+2026-11-20,Maharashtra,Hingoli,"Sant Namdev Krushi Bazar, Tal Sengaon Dist Hingoli",Soyabean,Other,Local,,7600.0,8000.0,7800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.884268Z
+2026-11-20,Maharashtra,Hingoli,"Sant Namdev Krushi Bazar, Tal Sengaon Dist Hingoli",Turmeric,Other,Local,,18800.0,19200.0,19000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.983465Z
+2026-11-20,Maharashtra,Jalgaon,APMC  Yawal,Banana,Other,Local,,1100.0,1500.0,1110.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.914563Z
+2026-11-20,Maharashtra,Jalgaon,APMC  Yawal,Maize,Yellow,FAQ,,2510.0,2960.0,2720.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.260563Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Beetroot,Other,Local,,1200.0,1500.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.045187Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Bhindi(Ladies Finger),Other,Local,,2000.0,2500.0,2200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.259963Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Brinjal,Other,Local,,2000.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.046143Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Cabbage,Other,Local,,800.0,1200.0,1000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.913832Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Carrot,Other,Local,,1500.0,2000.0,1800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.157185Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Cauliflower,Other,Local,,1000.0,1500.0,1200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.045672Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Coriander(Leaves),Other,Local,,2200.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.831555Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Cucumbar(Kheera),Other,Local,,1500.0,2000.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.913454Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Drumstick,Other,Local,,5000.0,5000.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.158096Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Green Chilli,Other,Local,,4000.0,5000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.831942Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Guar,Other,Local,,5000.0,5000.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.260153Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Lime,Other,Local,,4000.0,6000.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.913245Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Onion,Unhali,Local,,3000.0,3500.0,3300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.913647Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Papaya,Other,Local,,2000.0,2000.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.156248Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Peas Wet,Other,Local,,7000.0,7500.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.831730Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Potato,Other,Local,,1500.0,2000.0,1800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.156732Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Raddish,Other,Local,,500.0,1000.0,800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.914026Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Spinach,Other,Local,,500.0,1000.0,800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.260358Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Sweet Potato,Hosur Red,Local,,4000.0,4000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.157646Z
+2026-11-20,Maharashtra,Jalgaon,APMC Bhusaval,Tomato,Other,Local,,500.0,1000.0,800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.914200Z
+2026-11-20,Maharashtra,Jalgaon,APMC Chopda,Bajra(Pearl Millet/Cumbu),Other,FAQ,,3276.0,3276.0,3276.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.832799Z
+2026-11-20,Maharashtra,Jalgaon,APMC Chopda,Bengal Gram(Gram)(Whole),Other,FAQ,,6750.0,7076.0,6750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.833002Z
+2026-11-20,Maharashtra,Jalgaon,APMC Chopda,Black Gram(Urd Beans)(Whole),Other,Non-FAQ,,6667.0,6667.0,6667.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.833198Z
+2026-11-20,Maharashtra,Jalgaon,APMC Chopda,Jowar(Sorghum),Other,Local,,5401.0,7225.0,6701.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.050403Z
+2026-11-20,Maharashtra,Jalgaon,APMC Chopda,Maize,Yellow,FAQ,,2826.0,3025.0,2916.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.261349Z
+2026-11-20,Maharashtra,Jalgaon,APMC Chopda,Methi Seeds,Methiseeds,Local,,5900.0,6501.0,5900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.261738Z
+2026-11-20,Maharashtra,Jalgaon,APMC Chopda,Red gram/Arhar/Tur(whole),Other,FAQ,,9000.0,9000.0,9000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.261551Z
+2026-11-20,Maharashtra,Jalgaon,APMC Chopda,Soyabean,Other,Local,,6900.0,7652.0,7151.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.916003Z
+2026-11-20,Maharashtra,Jalgaon,APMC Jamner,Maize,Deshi Red,Non-FAQ,,2000.0,2200.0,2100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.914391Z
+2026-11-20,Maharashtra,Jalgaon,APMC Pachora,Bajra(Pearl Millet/Cumbu),Other,FAQ,,2900.0,2900.0,2900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.043625Z
+2026-11-20,Maharashtra,Jalgaon,APMC Pachora,Bajra(Pearl Millet/Cumbu),Other,Non-FAQ,,2400.0,2851.0,2621.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.831214Z
+2026-11-20,Maharashtra,Jalgaon,APMC Pachora,Jowar(Sorghum),Jowar ( White),Local,,2300.0,3275.0,2700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.831383Z
+2026-11-20,Maharashtra,Jalgaon,APMC Pachora,Jowar(Sorghum),Other,Local,,4300.0,5800.0,4600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.259757Z
+2026-11-20,Maharashtra,Jalgaon,APMC Pachora,Maize,Other,FAQ,,2600.0,2945.0,2721.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.044156Z
+2026-11-20,Maharashtra,Jalgaon,APMC Pachora,Soyabean,Other,Local,,7000.0,7663.0,7331.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.044704Z
+2026-11-20,Maharashtra,Jalgaon,APMC Pachora,Wheat,Other,FAQ,,2610.0,3100.0,2811.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.155802Z
+2026-11-20,Maharashtra,Jalgaon,APMC Pachora,Wheat,Other,Non-FAQ,,2350.0,2600.0,2451.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.913038Z
+2026-11-20,Maharashtra,Jalgaon,Jamner(Neri),Maize,Deshi Red,Non-FAQ,,2000.0,2200.0,2100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.158566Z
+2026-11-20,Maharashtra,Jalgaon,PACHORA(BHADGAON),Maize,Other,FAQ,,2700.0,2921.0,2821.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.046600Z
+2026-11-20,Maharashtra,Jalna,APMC Jafrabad,Maize,Other,FAQ,,2900.0,3100.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.916190Z
+2026-11-20,Maharashtra,Jalna,APMC Jafrabad,Soyabean,Yellow,FAQ,,7400.0,7600.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.262105Z
+2026-11-20,Maharashtra,Jalna,APMC Jalana,Bajra(Pearl Millet/Cumbu),Other,FAQ,,3100.0,3475.0,3200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.047524Z
+2026-11-20,Maharashtra,Jalna,APMC Jalana,Bengal Gram(Gram)(Whole),Other,FAQ,,7000.0,7711.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.915128Z
+2026-11-20,Maharashtra,Jalna,APMC Jalana,Bengal Gram(Gram)(Whole),Other,Non-FAQ,,5000.0,5000.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.048463Z
+2026-11-20,Maharashtra,Jalna,APMC Jalana,Black Gram(Urd Beans)(Whole),Other,FAQ,,8700.0,8700.0,8700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.915484Z
+2026-11-20,Maharashtra,Jalna,APMC Jalana,Cowpea(Lobia/Karamani),Other,Local,,5000.0,5000.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.047996Z
+2026-11-20,Maharashtra,Jalna,APMC Jalana,Green Gram(Moong)(Whole),Other,FAQ,,9150.0,9150.0,9150.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.159430Z
+2026-11-20,Maharashtra,Jalna,APMC Jalana,Green Gram(Moong)(Whole),Other,Non-FAQ,,8500.0,8600.0,8600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.048936Z
+2026-11-20,Maharashtra,Jalna,APMC Jalana,Gur(Jaggery),Yellow,Local,,3850.0,4800.0,4240.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.159869Z
+2026-11-20,Maharashtra,Jalna,APMC Jalana,Jowar(Sorghum),Other,Local,,2800.0,7900.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.914942Z
+2026-11-20,Maharashtra,Jalna,APMC Jalana,Maize,Deshi Red,FAQ,,2725.0,3100.0,2950.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.260943Z
+2026-11-20,Maharashtra,Jalna,APMC Jalana,Red gram/Arhar/Tur(whole),Other,FAQ,,8700.0,10000.0,9100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.915304Z
+2026-11-20,Maharashtra,Jalna,APMC Jalana,Safflower,Other,Non-FAQ,,5500.0,5500.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.915671Z
+2026-11-20,Maharashtra,Jalna,APMC Jalana,Soyabean,Yellow,FAQ,,6900.0,7800.0,7650.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.049422Z
+2026-11-20,Maharashtra,Jalna,APMC Jalana,Wheat,Other,FAQ,,2811.0,3700.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.260755Z
+2026-11-20,Maharashtra,Jalna,APMC Partur,Soyabean,Yellow,FAQ,,7200.0,7650.0,7577.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.049906Z
+2026-11-20,Maharashtra,Kolhapur,APMC Kolhapur,Onion,Other,Local,,1000.0,5600.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.269989Z
+2026-11-20,Maharashtra,Kolhapur,APMC Vadgaonpeth,Brinjal,Other,Local,,1000.0,4000.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.818980Z
+2026-11-20,Maharashtra,Kolhapur,APMC Vadgaonpeth,Cabbage,Other,Local,,1000.0,3500.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.176057Z
+2026-11-20,Maharashtra,Kolhapur,APMC Vadgaonpeth,Guar,Other,Local,,1000.0,3500.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.175615Z
+2026-11-20,Maharashtra,Kolhapur,APMC Vadgaonpeth,Onion,Local,Local,,1000.0,4500.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.070184Z
+2026-11-20,Maharashtra,Kolhapur,APMC Vadgaonpeth,Ridgeguard(Tori),Other,Local,,1000.0,3500.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.176513Z
+2026-11-20,Maharashtra,Kolhapur,APMC Vadgaonpeth,Tomato,Local,Local,,1000.0,2000.0,1200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.176986Z
+2026-11-20,Maharashtra,Kolhapur,Kolhapur(Laxmipuri),Jowar(Sorghum),Other,Local,,4500.0,8000.0,6250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.261923Z
+2026-11-20,Maharashtra,Kolhapur,Kolhapur(Laxmipuri),Rice,1009 Kar,Local,,3800.0,9600.0,6700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.050909Z
+2026-11-20,Maharashtra,Kolhapur,Kolhapur(Laxmipuri),Wheat,Other,FAQ,,3600.0,4900.0,4250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.833757Z
+2026-11-20,Maharashtra,Latur,APMC  Latur,Bengal Gram(Gram)(Whole),Other,FAQ,,6800.0,7631.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.051366Z
+2026-11-20,Maharashtra,Latur,APMC  Latur,Black Gram(Urd Beans)(Whole),Other,FAQ,,8500.0,9970.0,9800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.916369Z
+2026-11-20,Maharashtra,Latur,APMC  Latur,Green Gram(Moong)(Whole),Green (Whole),FAQ,,8780.0,9099.0,8800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.051843Z
+2026-11-20,Maharashtra,Latur,APMC  Latur,Red gram/Arhar/Tur(whole),Other,FAQ,,9699.0,10391.0,10000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.833993Z
+2026-11-20,Maharashtra,Latur,APMC  Latur,Safflower,Other,Non-FAQ,,6500.0,7200.0,7100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.052301Z
+2026-11-20,Maharashtra,Latur,APMC  Latur,Soyabean,Yellow,FAQ,,7328.0,7881.0,7810.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.162601Z
+2026-11-20,Maharashtra,Latur,APMC Ahmedpur,Bengal Gram(Gram)(Whole),Other,FAQ,,6351.0,7300.0,7080.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.833384Z
+2026-11-20,Maharashtra,Latur,APMC Ahmedpur,Jowar(Sorghum),Other,FAQ,,4023.0,6500.0,5261.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.161620Z
+2026-11-20,Maharashtra,Latur,APMC Ahmedpur,Red gram/Arhar/Tur(whole),Other,FAQ,,8450.0,9700.0,9075.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.833563Z
+2026-11-20,Maharashtra,Latur,APMC Ahmedpur,Soyabean,Yellow,FAQ,,7500.0,7850.0,7771.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.162132Z
+2026-11-20,Maharashtra,Latur,APMC Aurad Shahajani,Bengal Gram(Gram)(Whole),Other,FAQ,,6500.0,7531.0,7015.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.052746Z
+2026-11-20,Maharashtra,Latur,APMC Aurad Shahajani,Black Gram(Urd Beans)(Whole),Other,FAQ,,9500.0,9650.0,9575.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.163489Z
+2026-11-20,Maharashtra,Latur,APMC Aurad Shahajani,Green Gram(Moong)(Whole),Green (Whole),FAQ,,8780.0,8801.0,8790.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.163043Z
+2026-11-20,Maharashtra,Latur,APMC Aurad Shahajani,Green Gram(Moong)(Whole),Green (Whole),Non-FAQ,,7951.0,8770.0,8300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.916542Z
+2026-11-20,Maharashtra,Latur,APMC Aurad Shahajani,Jowar(Sorghum),Jowar ( White),Local,,3601.0,3601.0,3601.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.262322Z
+2026-11-20,Maharashtra,Latur,APMC Aurad Shahajani,Red gram/Arhar/Tur(whole),Other,FAQ,,10200.0,10200.0,10200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.916726Z
+2026-11-20,Maharashtra,Latur,APMC Aurad Shahajani,Soyabean,Yellow,FAQ,,7600.0,7800.0,7700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.262537Z
+2026-11-20,Maharashtra,Latur,APMC Devani,Soyabean,Yellow,FAQ,,7800.0,8080.0,7940.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.132397Z
+2026-11-20,Maharashtra,Latur,APMC Udgir,Black Gram(Urd Beans)(Whole),Other,FAQ,,9550.0,9640.0,9595.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.834381Z
+2026-11-20,Maharashtra,Latur,APMC Udgir,Green Gram(Moong)(Whole),Green (Whole),FAQ,,9000.0,10000.0,9500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.263303Z
+2026-11-20,Maharashtra,Latur,APMC Udgir,Red gram/Arhar/Tur(whole),Other,FAQ,,10000.0,10355.0,10177.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.053660Z
+2026-11-20,Maharashtra,Latur,APMC Udgir,Soyabean,Other,Local,,7800.0,7836.0,7818.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.917153Z
+2026-11-20,Maharashtra,Latur,Latur(Murud),Soyabean,Yellow,FAQ,,7700.0,7750.0,7730.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.916944Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Almond(Badam),Other,Local,,80000.0,125000.0,102500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.061283Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Arecanut(Betelnut/Supari),Other,Local,,39000.0,85000.0,62000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.169246Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Bajra(Pearl Millet/Cumbu),Other,FAQ,,2900.0,3700.0,3300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.054121Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Banana - Green,Other,Local,,1800.0,2400.0,2100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.265921Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Beans,Other,Local,,3600.0,6800.0,5200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.058025Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Beetroot,Other,Local,,2000.0,2800.0,2400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.166993Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Bengal Gram Dal(Chana Dal),Other,Local,,9100.0,10500.0,10000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.054946Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Bengal Gram(Gram)(Whole),Other,FAQ,,8500.0,9800.0,9300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.164771Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Bhindi(Ladies Finger),Other,Local,,2800.0,4800.0,3800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.834785Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Bitter gourd,Other,Local,,2600.0,3800.0,3200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.265505Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Black Gram Dal(Urd Dal),Other,Local,,11000.0,14000.0,12700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.166509Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Black Gram(Urd Beans)(Whole),Other,FAQ,,9000.0,12000.0,10800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.055352Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Black pepper,Other,Local,,64000.0,110000.0,87000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.837017Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Bottle gourd,Other,Local,,800.0,1800.0,1300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.264261Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Brinjal,Other,Local,,1600.0,4000.0,2800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.921672Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Cabbage,Other,Local,,300.0,800.0,550.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.163939Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Cardamom,Other,Local,,220000.0,380000.0,300000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.267200Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Carrot,Other,Local,,1800.0,3600.0,2700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.057545Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Cashewnuts,Other,Local,,88000.0,134000.0,111000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.168805Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Cauliflower,Other,Local,,400.0,800.0,600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.264475Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Chili Red,Other,Local,,26000.0,31000.0,28500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.060371Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Chilly Capsicum,Other,Local,,2400.0,4800.0,3600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.918805Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Cinamon(Dalchini),Other,Local,,19000.0,40000.0,29500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.060819Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Coconut,Other,FAQ,,3022.0,4800.0,3911.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.263710Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Coriander(Leaves),Other,Local,,500.0,1200.0,850.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.058480Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Corriander seed,Other,Local,,14000.0,18000.0,16000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.059913Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Cowpea(Lobia/Karamani),Other,Local,,7000.0,10500.0,9100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.834583Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Cucumbar(Kheera),Other,Local,,1400.0,2600.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.167426Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Cummin Seed(Jeera),Other,Local,,25000.0,28000.0,26500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.168337Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Drumstick,Other,Local,,5000.0,6000.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.920020Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Elephant Yam(Suran)/Amorphophallus,Other,Local,,2000.0,2800.0,2400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.059424Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,French Beans(Frasbean),Other,Local,,3000.0,5000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.057042Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Ginger(Green),Other,Local,,5000.0,10000.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.056212Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Green Chilli,Other,Local,,4000.0,5000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.836583Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Green Gram Dal(Moong Dal),Other,Local,,10000.0,13000.0,11700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.917528Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Green Gram(Moong)(Whole),Other,FAQ,,9500.0,14000.0,12900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.165638Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Green Peas,Other,Local,,5200.0,6500.0,6000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.917688Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Ground Nut Seed,Other,Local,,8000.0,14000.0,12000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.263888Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Guar,Other,Local,,5000.0,9000.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.264688Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Gur(Jaggery),Other,Local,,5800.0,6800.0,6300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.264082Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Lentil(Masur)(Whole),Other,FAQ,,7400.0,7400.0,7400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.165204Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Lime,Other,Local,,2200.0,4400.0,3300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.055789Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Little gourd(Kundru),Other,Local,,1200.0,3400.0,2300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.266651Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Maize,Other,FAQ,,3000.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.164350Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Mango(Raw-Ripe),Other,Local,,3000.0,5000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.264896Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Masur Dal,Other,Local,,7200.0,8000.0,7700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.917349Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Methi Seeds,Methiseeds,Local,,8000.0,11000.0,9500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.267018Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Methi(Leaves),Other,Local,,600.0,1400.0,1000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.167857Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Mint(Pudina),Other,Local,,300.0,500.0,400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.835165Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Mustard,Other,FAQ,,10000.0,11500.0,10750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.836826Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Onion Green,Other,Local,,500.0,1200.0,850.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.265084Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Peas Wet,Other,Local,,5000.0,9000.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.266828Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Pointed gourd(Parval),Other,Local,,2600.0,4800.0,3700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.058953Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Pumpkin,Other,Local,,2000.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.918064Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Raddish,Other,Local,,3000.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.266197Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Red gram split/Arhar dal/Tur dal,Other,Local,,11000.0,14000.0,12700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.166054Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Rice,Other,Local,,3300.0,10000.0,6650.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.263520Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Ridgeguard(Tori),Other,Local,,2400.0,3600.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.836129Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Soanf,Other,Local,,14000.0,37500.0,25750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.917858Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Spinach,Other,Local,,600.0,1200.0,900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.919478Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Sweet Potato,Other,Local,,1800.0,3200.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.266448Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Sweet Pumpkin,Other,Local,,800.0,1600.0,1200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.056620Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Tamarind Fruit,Other,Local,,9500.0,17500.0,13500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.922483Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Tomato,Other,Local,,600.0,1800.0,1200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.920854Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Turmeric,Other,Local,,22500.0,31000.0,26750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.923319Z
+2026-11-20,Maharashtra,Mumbai,APMC Mumbai,Wheat,Other,FAQ,,3000.0,5500.0,4250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.054539Z
+2026-11-20,Maharashtra,Mumbai,Mumbai- Fruit Market,Apple,Other,Local,,10000.0,13000.0,11500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.924005Z
+2026-11-20,Maharashtra,Mumbai,Mumbai- Fruit Market,Chikoos(Sapota),Other,Local,,4000.0,5000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.267398Z
+2026-11-20,Maharashtra,Mumbai,Mumbai- Fruit Market,Guava,Other,Local,,4000.0,8000.0,6000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.062228Z
+2026-11-20,Maharashtra,Mumbai,Mumbai- Fruit Market,Karbuja(Musk Melon),Other,Local,,2500.0,3000.0,2750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.924949Z
+2026-11-20,Maharashtra,Mumbai,Mumbai- Fruit Market,Mousambi(Sweet Lime),Other,Local,,2500.0,5500.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.267577Z
+2026-11-20,Maharashtra,Mumbai,Mumbai- Fruit Market,Orange,Other,Local,,3000.0,8000.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.924461Z
+2026-11-20,Maharashtra,Mumbai,Mumbai- Fruit Market,Papaya,Other,Local,,1000.0,2200.0,1600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.837196Z
+2026-11-20,Maharashtra,Mumbai,Mumbai- Fruit Market,Pineapple,Other,Local,,2000.0,4000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.169696Z
+2026-11-20,Maharashtra,Mumbai,Mumbai- Fruit Market,Pomegranate,Other,Local,,10000.0,13000.0,11500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.170143Z
+2026-11-20,Maharashtra,Mumbai,Mumbai- Fruit Market,Seetapal,Other,Local,,6000.0,8000.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.062672Z
+2026-11-20,Maharashtra,Mumbai,Mumbai- Fruit Market,Water Melon,Other,Local,,1800.0,2000.0,1900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.061754Z
+2026-11-20,Maharashtra,Mumbai,Mumbai-Onion & Potato Market,Onion,Other,Local,,3000.0,5000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.013113Z
+2026-11-20,Maharashtra,Mumbai,Mumbai-Onion & Potato Market,Potato,Other,Local,,700.0,1400.0,1050.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.012886Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Bhindi(Ladies Finger),Other,Local,,1500.0,4000.0,2778.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.098297Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Bitter gourd,Other,Local,,3000.0,5000.0,3875.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.197517Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Bottle gourd,Other,Local,,400.0,1000.0,730.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.851167Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Brinjal,Other,Local,,500.0,3500.0,2392.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.096778Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Cabbage,Other,Local,,1000.0,1300.0,1150.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.944286Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Cauliflower,Other,Local,,800.0,2000.0,1483.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.851617Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Coriander(Leaves),Other,Local,,2500.0,4500.0,3354.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.098767Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Cucumbar(Kheera),Other,Local,,1500.0,2000.0,1828.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.944098Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Ginger(Green),Other,Local,,7000.0,7000.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.850733Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Green Chilli,Other,Local,,1800.0,3000.0,2663.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.097272Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Guar,Other,Local,,1000.0,3500.0,2742.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.197253Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Guava,Other,Local,,1500.0,3500.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.196526Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Lime,Other,Local,,3500.0,6000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.097788Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Methi(Leaves),Other,Local,,1000.0,4000.0,1937.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.945028Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Peas Wet,Other,Local,,3500.0,5000.0,4125.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.001874Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Raddish,Other,Local,,1000.0,2500.0,1535.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.945239Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Seetapal,Other,Local,,2500.0,4000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.196956Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Spinach,Other,Local,,500.0,4000.0,1242.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.099269Z
+2026-11-20,Maharashtra,Nagpur,APMC Hingna,Tomato,Local,Local,,750.0,2250.0,1308.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.943900Z
+2026-11-20,Maharashtra,Nagpur,APMC Kalmeshwar,Bhindi(Ladies Finger),Other,Local,,1520.0,2000.0,1840.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.111838Z
+2026-11-20,Maharashtra,Nagpur,APMC Kalmeshwar,Cabbage,Other,Local,,470.0,800.0,630.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.872579Z
+2026-11-20,Maharashtra,Nagpur,APMC Kalmeshwar,Cauliflower,Other,Local,,360.0,700.0,550.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.112052Z
+2026-11-20,Maharashtra,Nagpur,APMC Kalmeshwar,Coriander(Leaves),Other,Local,,2050.0,2500.0,2330.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.112262Z
+2026-11-20,Maharashtra,Nagpur,APMC Kalmeshwar,Cucumbar(Kheera),Other,Local,,1565.0,2000.0,1875.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.872410Z
+2026-11-20,Maharashtra,Nagpur,APMC Kalmeshwar,Green Chilli,Other,Local,,2510.0,3000.0,2820.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.218330Z
+2026-11-20,Maharashtra,Nagpur,APMC Kalmeshwar,Methi(Leaves),Other,Local,,1440.0,1800.0,1660.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.217479Z
+2026-11-20,Maharashtra,Nagpur,APMC Kalmeshwar,Pumpkin,Other,Local,,805.0,1200.0,1015.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.217034Z
+2026-11-20,Maharashtra,Nagpur,APMC Kalmeshwar,Raddish,Other,Local,,1025.0,1500.0,1345.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.217907Z
+2026-11-20,Maharashtra,Nagpur,APMC Kalmeshwar,Spinach,Other,Local,,845.0,1200.0,1025.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.964844Z
+2026-11-20,Maharashtra,Nagpur,APMC Kalmeshwar,Tomato,Other,Local,,815.0,1200.0,1005.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.112934Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Bhindi(Ladies Finger),Other,Local,,2000.0,2500.0,2350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.066167Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Bottle gourd,Other,Local,,1500.0,2000.0,1750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.172859Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Brinjal,Other,Local,,2500.0,3000.0,2750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.269209Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Cabbage,Other,Local,,1000.0,1500.0,1350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.067484Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Cauliflower,Other,Local,,1000.0,1500.0,1350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.066594Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Coriander(Leaves),Other,Local,,4000.0,4500.0,4350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.929721Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Cucumbar(Kheera),Other,Local,,2500.0,3000.0,2750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.838924Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Ginger(Green),Other,Local,,7000.0,8000.0,7650.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.928188Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Green Chilli,Other,Local,,2000.0,2500.0,2350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.269434Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Green Peas,Other,Local,,5000.0,5500.0,5350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.268794Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Guar,Other,Local,,3000.0,3500.0,3350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.067048Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Guava,Other,Local,,3000.0,3500.0,3350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.172392Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Lime,Other,Local,,5000.0,6000.0,5650.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.065751Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Methi(Leaves),Other,Local,,1500.0,2000.0,1750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.173322Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Onion,Local,Local,,5000.0,6000.0,5650.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.928974Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Orange,Other,Local,,3000.0,3500.0,3350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.927723Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Potato,Local,Local,,2000.0,2500.0,2350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.269005Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Raddish,Other,Local,,1500.0,2000.0,1750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.839108Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Spinach,Other,Local,,1500.0,2000.0,1750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.839292Z
+2026-11-20,Maharashtra,Nagpur,APMC Kamthi,Tomato,Local,Local,,1000.0,1500.0,1350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.930400Z
+2026-11-20,Maharashtra,Nagpur,APMC Katol,Bengal Gram(Gram)(Whole),Other,FAQ,,6100.0,7740.0,7380.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.932795Z
+2026-11-20,Maharashtra,Nagpur,APMC Katol,Cotton,Desi,Local,,8800.0,9100.0,9000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.841272Z
+2026-11-20,Maharashtra,Nagpur,APMC Katol,Maize,Other,FAQ,,2715.0,2715.0,2715.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.841478Z
+2026-11-20,Maharashtra,Nagpur,APMC Katol,Red gram/Arhar/Tur(whole),Other,FAQ,,9180.0,10400.0,9850.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.174218Z
+2026-11-20,Maharashtra,Nagpur,APMC Katol,Soyabean,Yellow,FAQ,,6600.0,7715.0,7190.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.933386Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Apple,Other,Local,,11000.0,13000.0,12500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.268093Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Apple,Simla,Local,,6000.0,7000.0,6750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.837724Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Bengal Gram(Gram)(Whole),Other,FAQ,,7000.0,7550.0,7412.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.171063Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Chikoos(Sapota),Other,Local,,1000.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.064047Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Chili Red,Other,Local,,14000.0,20000.0,18500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.838116Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Grapes,Other,Local,,4000.0,6000.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.926314Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Jowar(Sorghum),Other,Local,,3000.0,3200.0,3150.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.170610Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Maize,Other,FAQ,,2650.0,2876.0,2819.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.063132Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Mousambi(Sweet Lime),Other,Local,,1500.0,2300.0,2100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.837547Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Orange,Other,Local,,1500.0,4000.0,3375.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.837920Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Pineapple,Other,Local,,1000.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.925452Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Pomegranate,Other,Local,,2000.0,6000.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.064501Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Red gram/Arhar/Tur(whole),Other,FAQ,,9200.0,9611.0,9508.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.267921Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Rice,Other,Local,,7200.0,7500.0,7425.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.063589Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Soyabean,Other,Local,,7300.0,8000.0,7825.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.171508Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Wheat,Other,FAQ,,2800.0,3096.0,3022.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.837370Z
+2026-11-20,Maharashtra,Nagpur,APMC Nagpur,Wheat,Sharbati,FAQ,,3200.0,3500.0,3425.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.267738Z
+2026-11-20,Maharashtra,Nagpur,APMC Parshiwani,Cotton,Other,FAQ,,8800.0,9100.0,8950.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.890178Z
+2026-11-20,Maharashtra,Nagpur,APMC Umared,Cotton,Desi,Local,,9240.0,9340.0,9290.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.064926Z
+2026-11-20,Maharashtra,Nagpur,APMC Umared,Paddy(Common),Other,FAQ,,3500.0,4000.0,3750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.838519Z
+2026-11-20,Maharashtra,Nanded,APMC Bhokar,Black Gram(Urd Beans)(Whole),Other,Non-FAQ,,8000.0,8000.0,8000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.838730Z
+2026-11-20,Maharashtra,Nanded,APMC Bhokar,Jowar(Sorghum),Other,Local,,3100.0,3200.0,3150.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.065330Z
+2026-11-20,Maharashtra,Nanded,APMC Bhokar,Soyabean,Yellow,FAQ,,7000.0,7731.0,7365.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.268594Z
+2026-11-20,Maharashtra,Nanded,APMC Hadgaon,Soyabean,Yellow,FAQ,,7500.0,7800.0,7700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.841810Z
+2026-11-20,Maharashtra,Nanded,APMC Kinwat,Cotton,Other,Local,,8830.0,9040.0,8950.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.180115Z
+2026-11-20,Maharashtra,Nanded,APMC Kinwat,Soyabean,Yellow,FAQ,,7260.0,7410.0,7320.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.180553Z
+2026-11-20,Maharashtra,Nanded,APMC Loha,Jowar(Sorghum),Other,Non-FAQ,,2850.0,3680.0,3150.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.992466Z
+2026-11-20,Maharashtra,Nanded,APMC Loha,Soyabean,Other,Local,,7500.0,7923.0,7825.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.939228Z
+2026-11-20,Maharashtra,Nanded,APMC Loha,Turmeric,Rajapuri,Local,,18500.0,19901.0,19201.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.845900Z
+2026-11-20,Maharashtra,Nanded,APMC Loha,Wheat,Other,FAQ,,3811.0,3811.0,3811.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.992292Z
+2026-11-20,Maharashtra,Nanded,APMC Mudkhed,Soyabean,Other,Local,,7350.0,7350.0,7350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.933874Z
+2026-11-20,Maharashtra,Nanded,"Shetkari Khajgi Bajar Parisar, Tal Bhokar, Dist Nanded",Cotton,LH-900,Local,,9100.0,9150.0,9140.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.020244Z
+2026-11-20,Maharashtra,Nandurbar,APMC Nandurbar,Bajra(Pearl Millet/Cumbu),Other,FAQ,,3375.0,3375.0,3375.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.842868Z
+2026-11-20,Maharashtra,Nandurbar,APMC Nandurbar,Bajra(Pearl Millet/Cumbu),Other,Non-FAQ,,2350.0,2850.0,2850.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.988802Z
+2026-11-20,Maharashtra,Nandurbar,APMC Nandurbar,Bengal Gram(Gram)(Whole),Kabul Small,FAQ,,6500.0,6500.0,6500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.181438Z
+2026-11-20,Maharashtra,Nandurbar,APMC Nandurbar,Cotton,Other,Local,,8850.0,9065.0,9000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.989069Z
+2026-11-20,Maharashtra,Nandurbar,APMC Nandurbar,Jowar(Sorghum),Other,Local,,2900.0,3776.0,3325.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.181007Z
+2026-11-20,Maharashtra,Nandurbar,APMC Nandurbar,Maize,Other,FAQ,,2675.0,3013.0,3013.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.842182Z
+2026-11-20,Maharashtra,Nandurbar,APMC Nandurbar,Maize,Other,Non-FAQ,,2341.0,2341.0,2341.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.934733Z
+2026-11-20,Maharashtra,Nandurbar,APMC Nandurbar,Soyabean,Other,Local,,7499.0,7686.0,7575.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.076650Z
+2026-11-20,Maharashtra,Nandurbar,APMC Nandurbar,Wheat,Other,FAQ,,2700.0,2885.0,2800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.934313Z
+2026-11-20,Maharashtra,Nashik,APMC Chandwad,Onion,Red,Local,,2000.0,4555.0,3800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.857508Z
+2026-11-20,Maharashtra,Nashik,APMC Chandwad,Onion,Red,Local,,2000.0,4555.0,3800.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.021607Z
+2026-11-20,Maharashtra,Nashik,APMC Devala,Bajra(Pearl Millet/Cumbu),Other,FAQ,,2900.0,3250.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.990975Z
+2026-11-20,Maharashtra,Nashik,APMC Devala,Bengal Gram(Gram)(Whole),Other,FAQ,,7000.0,7600.0,7600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.079950Z
+2026-11-20,Maharashtra,Nashik,APMC Devala,Jowar(Sorghum),Other,Local,,5305.0,5305.0,5305.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.844895Z
+2026-11-20,Maharashtra,Nashik,APMC Devala,Maize,Yellow,FAQ,,2410.0,3100.0,2850.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.186957Z
+2026-11-20,Maharashtra,Nashik,APMC Devala,Methi Seeds,Methiseeds,Local,,5305.0,5305.0,5305.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.991341Z
+2026-11-20,Maharashtra,Nashik,APMC Devala,Onion,Red,Local,,1700.0,4585.0,4200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.991151Z
+2026-11-20,Maharashtra,Nashik,APMC Devala,Onion,Red,Local,,1700.0,4585.0,4200.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.025317Z
+2026-11-20,Maharashtra,Nashik,APMC Devala,Onion,Unhali,Local,,1500.0,4575.0,4200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.845107Z
+2026-11-20,Maharashtra,Nashik,APMC Devala,Onion,Unhali,Local,,1500.0,4575.0,4200.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.021176Z
+2026-11-20,Maharashtra,Nashik,APMC Devala,Red gram/Arhar/Tur(whole),Other,Non-FAQ,,8200.0,8405.0,8300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.080577Z
+2026-11-20,Maharashtra,Nashik,APMC Devala,Wheat,Maharashtra 2189,FAQ,,2800.0,3100.0,2950.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.844666Z
+2026-11-20,Maharashtra,Nashik,APMC Lasalgaon,Maize,Other,FAQ,,2600.0,3100.0,2990.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.850180Z
+2026-11-20,Maharashtra,Nashik,APMC Lasalgaon,Onion,Red,Local,,1712.0,5000.0,4400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.095751Z
+2026-11-20,Maharashtra,Nashik,APMC Lasalgaon,Onion,Red,Local,,1712.0,5000.0,4400.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.019528Z
+2026-11-20,Maharashtra,Nashik,APMC Lasalgaon,Onion,Unhali,Local,,2090.0,4601.0,4300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.096275Z
+2026-11-20,Maharashtra,Nashik,APMC Lasalgaon,Onion,Unhali,Local,,2090.0,4601.0,4300.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.019702Z
+2026-11-20,Maharashtra,Nashik,APMC Lasalgaon,Soyabean,Other,Local,,5000.0,7900.0,7761.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.001398Z
+2026-11-20,Maharashtra,Nashik,APMC Lasalgaon,Wheat,Maharashtra 2189,FAQ,,2851.0,3644.0,3251.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.943709Z
+2026-11-20,Maharashtra,Nashik,APMC Manmad,Onion,Red,Local,,2300.0,4428.0,4200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.078003Z
+2026-11-20,Maharashtra,Nashik,APMC Manmad,Onion,Red,Local,,2300.0,4428.0,4200.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.018839Z
+2026-11-20,Maharashtra,Nashik,APMC Manmad,Onion,Unhali,Local,,2100.0,4404.0,4200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.937488Z
+2026-11-20,Maharashtra,Nashik,APMC Manmad,Onion,Unhali,Local,,2100.0,4404.0,4200.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.019880Z
+2026-11-20,Maharashtra,Nashik,APMC Nandgaon,Bajra(Pearl Millet/Cumbu),Other,FAQ,,2900.0,3899.0,2950.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.990790Z
+2026-11-20,Maharashtra,Nashik,APMC Nandgaon,Bengal Gram(Gram)(Whole),Other,FAQ,,5958.0,6950.0,6800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.937991Z
+2026-11-20,Maharashtra,Nashik,APMC Nandgaon,Soyabean,Yellow,FAQ,,6350.0,7620.0,7250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.185488Z
+2026-11-20,Maharashtra,Nashik,APMC Nandgaon,Wheat,Maharashtra 2189,FAQ,,3041.0,3371.0,3250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.185024Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Apple,Other,Local,,5000.0,14000.0,8000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.989913Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Banana,Khandesh,Local,,700.0,1400.0,1000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.077061Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Bhindi(Ladies Finger),Other,Local,,833.0,2500.0,1666.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.990083Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Bitter gourd,Other,Local,,835.0,2085.0,1290.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.077464Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Bottle gourd,Other,Local,,465.0,1500.0,1065.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.936450Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Brinjal,Other,Local,,3000.0,5500.0,4200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.844259Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Cabbage,Other,Local,,210.0,460.0,290.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.936989Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Cauliflower,Other,Local,,215.0,500.0,360.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.844084Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Chikoos(Sapota),Other,Local,,2000.0,5000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.182012Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Chilly Capsicum,Other,Local,,2500.0,4000.0,3440.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.184071Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Cucumbar(Kheera),Other,Local,,1500.0,2625.0,2055.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.990257Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Garlic,Other,Local,,6200.0,20100.0,14000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.990601Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Guar,Other,Local,,2000.0,4000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.183573Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Guava,Other,Local,,2000.0,4500.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.182600Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Lime,Other,Local,,7000.0,9000.0,8000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.989519Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Mousambi(Sweet Lime),Other,Local,,1500.0,3500.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.843410Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Onion,Unhali,Local,,2500.0,4800.0,4100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.990435Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Onion,Unhali,Local,,2500.0,4800.0,4100.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.024895Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Orange,Other,Local,,2000.0,5000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.935889Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Papaya,Other,Local,,1000.0,2500.0,1700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.989712Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Pomegranate,Other,Local,,400.0,15500.0,8500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.935250Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Potato,Other,Local,,800.0,1350.0,1150.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.843691Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Ridgeguard(Tori),Other,Local,,2505.0,5335.0,3920.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.184545Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Sweet Pumpkin,Other,Local,,1400.0,1800.0,1600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.843892Z
+2026-11-20,Maharashtra,Nashik,APMC Nasik,Tender Coconut,Other,Local,,4000.0,6500.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.183104Z
+2026-11-20,Maharashtra,Nashik,APMC Pimpalgaon Baswant,Onion,Pole,Local,,1500.0,5601.0,4150.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.187937Z
+2026-11-20,Maharashtra,Nashik,APMC Pimpalgaon Baswant,Onion,Pole,Local,,1500.0,5601.0,4150.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.024002Z
+2026-11-20,Maharashtra,Nashik,APMC Pimpalgaon Baswant,Onion,Unhali,Local,,1700.0,4914.0,4200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.187440Z
+2026-11-20,Maharashtra,Nashik,APMC Pimpalgaon Baswant,Onion,Unhali,Local,,1700.0,4914.0,4200.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.023544Z
+2026-11-20,Maharashtra,Nashik,APMC Sinner,Bengal Gram(Gram)(Whole),Other,FAQ,,6000.0,7400.0,7300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.185989Z
+2026-11-20,Maharashtra,Nashik,APMC Sinner,Maize,Other,FAQ,,2850.0,3245.0,3150.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.078537Z
+2026-11-20,Maharashtra,Nashik,APMC Sinner,Onion,Red,Local,,2000.0,4300.0,4200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.079240Z
+2026-11-20,Maharashtra,Nashik,APMC Sinner,Onion,Red,Local,,2000.0,4300.0,4200.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.019160Z
+2026-11-20,Maharashtra,Nashik,APMC Sinner,Onion,Unhali,Local,,2000.0,4400.0,4200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.938403Z
+2026-11-20,Maharashtra,Nashik,APMC Sinner,Onion,Unhali,Local,,2000.0,4400.0,4200.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.020069Z
+2026-11-20,Maharashtra,Nashik,APMC Sinner,Soyabean,Other,Local,,7400.0,7685.0,7625.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.186468Z
+2026-11-20,Maharashtra,Nashik,APMC Sinner,Wheat,Other,FAQ,,2975.0,3245.0,3100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.844461Z
+2026-11-20,Maharashtra,Nashik,APMC Umrane,Onion,Red,Local,,1500.0,5060.0,4100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.894109Z
+2026-11-20,Maharashtra,Nashik,APMC Umrane,Onion,Red,Local,,1500.0,5060.0,4100.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.023096Z
+2026-11-20,Maharashtra,Nashik,APMC Umrane,Onion,Unhali,Local,,1000.0,4340.0,3600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.893687Z
+2026-11-20,Maharashtra,Nashik,APMC Umrane,Onion,Unhali,Local,,1000.0,4340.0,3600.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.022643Z
+2026-11-20,Maharashtra,Nashik,APMC Yeola,Onion,Unhali,Local,,1102.0,4399.0,4100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.989324Z
+2026-11-20,Maharashtra,Nashik,APMC Yeola,Onion,Unhali,Local,,1102.0,4399.0,4100.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.024457Z
+2026-11-20,Maharashtra,Nashik,Dindori(Vani),Onion,Unhali,Local,,3571.0,4710.0,4221.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.883409Z
+2026-11-20,Maharashtra,Nashik,Dindori(Vani),Onion,Unhali,Local,,3571.0,4710.0,4221.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.022044Z
+2026-11-20,Maharashtra,Nashik,Lasalgaon(Niphad),Black Gram(Urd Beans)(Whole),Other,FAQ,,8300.0,8300.0,8300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.938823Z
+2026-11-20,Maharashtra,Nashik,Lasalgaon(Niphad),Green Gram(Moong)(Whole),Other,FAQ,,8901.0,8901.0,8901.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.991730Z
+2026-11-20,Maharashtra,Nashik,Lasalgaon(Niphad),Green Gram(Moong)(Whole),Other,Non-FAQ,,8101.0,8601.0,8601.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.991923Z
+2026-11-20,Maharashtra,Nashik,Lasalgaon(Niphad),Maize,Deshi Red,FAQ,,2500.0,3161.0,3030.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.188856Z
+2026-11-20,Maharashtra,Nashik,Lasalgaon(Niphad),Maize,Deshi Red,Non-FAQ,,2255.0,2255.0,2255.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.845489Z
+2026-11-20,Maharashtra,Nashik,Lasalgaon(Niphad),Red gram/Arhar/Tur(whole),Other,Non-FAQ,,7000.0,7000.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.081443Z
+2026-11-20,Maharashtra,Nashik,Lasalgaon(Niphad),Soyabean,Other,Local,,6352.0,7795.0,7770.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.082070Z
+2026-11-20,Maharashtra,Nashik,Lasalgaon(Niphad),Wheat,Maharashtra 2189,FAQ,,2990.0,3476.0,3100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.188396Z
+2026-11-20,Maharashtra,Nashik,Lasalgaon(Vinchur),Maize,Other,FAQ,,2410.0,3200.0,3050.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.939906Z
+2026-11-20,Maharashtra,Nashik,Lasalgaon(Vinchur),Onion,Red,Local,,2500.0,4805.0,4400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.083040Z
+2026-11-20,Maharashtra,Nashik,Lasalgaon(Vinchur),Onion,Red,Local,,2500.0,4805.0,4400.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.019352Z
+2026-11-20,Maharashtra,Nashik,Lasalgaon(Vinchur),Onion,Unhali,Local,,1500.0,4301.0,4100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.940311Z
+2026-11-20,Maharashtra,Nashik,Lasalgaon(Vinchur),Onion,Unhali,Local,,1500.0,4301.0,4100.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.020705Z
+2026-11-20,Maharashtra,Nashik,Lasalgaon(Vinchur),Soyabean,Other,Local,,6000.0,7861.0,7700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.992621Z
+2026-11-20,Maharashtra,Nashik,"Perfect Krishi Market Yard Pvt Ltd, Dist Nashik",Pomegranate,Other,Local,,1275.0,13100.0,9050.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.237868Z
+2026-11-20,Maharashtra,Nashik,Pimpalgaon Baswant(Saykheda),Onion,Unhali,Local,,3352.0,4100.0,3800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.993877Z
+2026-11-20,Maharashtra,Nashik,Pimpalgaon Baswant(Saykheda),Onion,Unhali,Local,,3352.0,4100.0,3800.0,data.gov.in / AGMARKNET historical API,2026-11-20T18:29:59.025732Z
+2026-11-20,Maharashtra,Palghar,APMC  VASAI,Rice,1009 Kar,Local,,2560.0,3965.0,3490.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.189918Z
+2026-11-20,Maharashtra,Palghar,APMC Palghar,Rice,1009 Kar,Local,,7900.0,7900.0,7900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.083519Z
+2026-11-20,Maharashtra,Palghar,APMC Palghar,Wheat,Other,FAQ,,4400.0,4400.0,4400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.940577Z
+2026-11-20,Maharashtra,Parbhani,APMC Jintur,Soyabean,Yellow,FAQ,,7550.0,7750.0,7700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.890605Z
+2026-11-20,Maharashtra,Parbhani,APMC Purna,Soyabean,Yellow,FAQ,,7600.0,7750.0,7685.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.190399Z
+2026-11-20,Maharashtra,Parbhani,APMC Tadkalas,Soyabean,Other,Local,,7500.0,7800.0,7650.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.994052Z
+2026-11-20,Maharashtra,Parbhani,APMC Tadkalas,Wheat,Other,Non-FAQ,,2200.0,2500.0,2201.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.940799Z
+2026-11-20,Maharashtra,Pune,APMC Baramati,Groundnut,Other,Non-FAQ,,5000.0,5000.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.899924Z
+2026-11-20,Maharashtra,Pune,APMC Baramati,Gur(Jaggery),Other,Local,,4875.0,4875.0,4875.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.135626Z
+2026-11-20,Maharashtra,Pune,APMC Baramati,Soyabean,Yellow,FAQ,,6500.0,7476.0,7465.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.815795Z
+2026-11-20,Maharashtra,Pune,APMC Baramati,Sunflower/Sunflower Seed,Other,FAQ,,8345.0,8400.0,8360.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.242916Z
+2026-11-20,Maharashtra,Pune,APMC Baramati,Sunflower/Sunflower Seed,Other,Non-FAQ,,6000.0,8340.0,8000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.900349Z
+2026-11-20,Maharashtra,Pune,APMC Indapur,Pomegranate,Other,Local,,2000.0,21100.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.094741Z
+2026-11-20,Maharashtra,Pune,APMC Khed,Bhindi(Ladies Finger),Other,Local,,2000.0,4500.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.194597Z
+2026-11-20,Maharashtra,Pune,APMC Khed,Bitter gourd,Other,Local,,1000.0,4500.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.093893Z
+2026-11-20,Maharashtra,Pune,APMC Khed,Bottle gourd,Other,Local,,700.0,1200.0,900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.193626Z
+2026-11-20,Maharashtra,Pune,APMC Khed,Brinjal,Other,Local,,800.0,4500.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.849193Z
+2026-11-20,Maharashtra,Pune,APMC Khed,Cabbage,Other,Local,,300.0,500.0,400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.094084Z
+2026-11-20,Maharashtra,Pune,APMC Khed,Cauliflower,Other,Local,,300.0,1000.0,700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.943098Z
+2026-11-20,Maharashtra,Pune,APMC Khed,Chilly Capsicum,Other,Local,,2500.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.094263Z
+2026-11-20,Maharashtra,Pune,APMC Khed,Cucumbar(Kheera),Other,Local,,1000.0,4000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.943298Z
+2026-11-20,Maharashtra,Pune,APMC Khed,Green Chilli,Other,Local,,1500.0,4000.0,2800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.999980Z
+2026-11-20,Maharashtra,Pune,APMC Khed,Guar,Other,Local,,4000.0,7000.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.093714Z
+2026-11-20,Maharashtra,Pune,APMC Khed,Onion,Fursungi,Local,,2500.0,4000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.195055Z
+2026-11-20,Maharashtra,Pune,APMC Khed,Potato,Other,Local,,1100.0,1600.0,1300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.194117Z
+2026-11-20,Maharashtra,Pune,APMC Khed,Tomato,Local,Local,,500.0,1600.0,1000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.195509Z
+2026-11-20,Maharashtra,Pune,APMC Nira,Gur(Jaggery),Other,Local,,5300.0,5450.0,5375.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.196025Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Amla(Nelli Kai),Other,Local,,2500.0,5000.0,3700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.087796Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Apple,Other,Local,,4000.0,16000.0,10000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.847043Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Bajra(Pearl Millet/Cumbu),Other,FAQ,,3600.0,4000.0,3800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.193157Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Banana,Other,Local,,500.0,2000.0,1200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.941723Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Beans,Other,Local,,3500.0,6000.0,4750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.997177Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Beetroot,Other,Local,,500.0,2500.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.996723Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Bengal Gram(Gram)(Whole),Other,FAQ,,8500.0,9500.0,9000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.084490Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Bhindi(Ladies Finger),Other,Local,,1600.0,5000.0,3300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.089187Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Bitter gourd,Other,Local,,2000.0,3500.0,2750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.091452Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Black Gram(Urd Beans)(Whole),Other,FAQ,,10000.0,11600.0,10800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.085441Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Bottle gourd,Other,Local,,1000.0,2500.0,1750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.192700Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Brinjal,Other,Local,,1000.0,4000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.999065Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Cabbage,Other,Local,,300.0,800.0,550.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.091902Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Carrot,Other,Local,,1000.0,5000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.090070Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Cauliflower,Other,Local,,500.0,1000.0,750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.089632Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Chikoos(Sapota),Other,Local,,2000.0,5000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.941367Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Chilly Capsicum,Other,Local,,1000.0,4000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.092947Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Corriander seed,Other,Local,,16000.0,20000.0,18000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.848532Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Cucumbar(Kheera),Other,Local,,1000.0,4000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.847234Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Drumstick,Other,Local,,1000.0,5000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.998594Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Garlic,Other,Local,,6000.0,23000.0,14500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.848064Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Ginger(Green),Other,Local,,1500.0,5000.0,3250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.088735Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Grapes,Other,Local,,4000.0,16000.0,10000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.846627Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Green Chilli,Other,Local,,1600.0,4000.0,2800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.999521Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Green Gram(Moong)(Whole),Green (Whole),FAQ,,9500.0,10500.0,10000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.084952Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Green Peas,Other,Local,,5100.0,6700.0,5900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.085921Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Ground Nut Seed,Local,Local,,13400.0,14600.0,14000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.941182Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Guar,Other,Local,,3500.0,7000.0,5250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.090545Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Guava,Other,Local,,2500.0,8000.0,5200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.846818Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Gur(Jaggery),Other,Local,,5075.0,5225.0,5150.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.846451Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Jowar(Sorghum),Other,FAQ,,7200.0,8600.0,7900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.190863Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Lentil(Masur)(Whole),Other,FAQ,,7400.0,8000.0,7700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.941003Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Lime,Other,Local,,400.0,1400.0,900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.191784Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Little gourd(Kundru),Other,Local,,2000.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.942824Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Maize,Deshi Red,FAQ,,2600.0,2900.0,2750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.846090Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Mango(Raw-Ripe),Other,Local,,2000.0,5000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.997652Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Mousambi(Sweet Lime),Other,Local,,5000.0,7000.0,6000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.995199Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Onion,Local,Local,,1000.0,5000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.091006Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Onion Green,Other,Local,,6.0,20.0,13.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.847416Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Orange,Other,Local,,5000.0,10000.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.995714Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Papaya,Other,Local,,1000.0,2000.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.086877Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Peas Wet,Other,Local,,4000.0,7000.0,5250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.093545Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Pineapple,Other,Local,,1300.0,4000.0,2600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.191314Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Pointed gourd(Parval),Other,Local,,2000.0,4000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.093165Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Pomegranate,Other,Local,,2000.0,10000.0,6000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.086393Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Potato,Local,Local,,1000.0,2200.0,1600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.996199Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Pumpkin,Other,Local,,1000.0,2500.0,1750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.092501Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Raddish,Other,Local,,5.0,20.0,12.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.998109Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Ragi(Finger Millet),Other,FAQ,,5500.0,6000.0,5750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.083995Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Rajgir,Other,Local,,5.0,8.0,6.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.942208Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Rice,Other,Local,,5800.0,8800.0,7300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.846273Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Ridgeguard(Tori),Other,Local,,3000.0,6000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.093369Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Seetapal,Other,Local,,2000.0,7000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.087337Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Snakeguard,Other,Local,,2000.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.941943Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Sweet Potato,Other,Local,,2000.0,4000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.848277Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Sweet Pumpkin,Other,Local,,500.0,3000.0,1750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.192242Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Tender Coconut,Other,Local,,1300.0,2000.0,1600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.088255Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Tomato,Local,Local,,600.0,1500.0,1050.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.942521Z
+2026-11-20,Maharashtra,Pune,APMC Pune,Water Melon,Other,Local,,1000.0,1500.0,1200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.994595Z
+2026-11-20,Maharashtra,Pune,Junnar(Alephata),Onion,Chinchwad,Local,,2000.0,5100.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.954186Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Beans,Other,Local,,2000.0,4000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.201412Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Beetroot,Other,Local,,300.0,2000.0,1000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.105681Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Bhindi(Ladies Finger),Other,Local,,400.0,4500.0,2400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.201246Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Bitter gourd,Other,Local,,500.0,3500.0,1900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.202095Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Bottle gourd,Other,Local,,300.0,1800.0,1000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.006052Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Brinjal,Other,Local,,300.0,3500.0,1850.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.201078Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Cabbage,Other,Local,,150.0,600.0,370.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.106260Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Carrot,Other,Local,,300.0,3000.0,1600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.006520Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Cauliflower,Other,Local,,100.0,700.0,400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.858297Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Chilly Capsicum,Other,Local,,600.0,4500.0,2550.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.955177Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Cucumbar(Kheera),Other,Local,,300.0,3200.0,1700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.201592Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Drumstick,Other,Local,,400.0,5000.0,2600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.006974Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Garlic,Other,Local,,5000.0,14000.0,9500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.106616Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Ginger(Green),Other,Local,,1000.0,6500.0,3700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.954698Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Green Chilli,Other,Local,,400.0,5100.0,2800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.104735Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Guar,Other,Local,,600.0,9000.0,4800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.859044Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Lime,Other,Local,,2500.0,8000.0,5300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.005602Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Little gourd(Kundru),Other,Local,,500.0,3500.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.859772Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Onion,Chinchwad,Local,,2000.0,5000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.201876Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Peas Wet,Other,Local,,5000.0,7000.0,6000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.200882Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Potato,Other,Local,,200.0,1500.0,800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.105222Z
+2026-11-20,Maharashtra,Pune,Junnar(Narayangaon),Ridgeguard(Tori),Other,Local,,400.0,3500.0,1900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.202302Z
+2026-11-20,Maharashtra,Pune,Junnar(Otur),Beans,Other,Local,,2000.0,4000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.945606Z
+2026-11-20,Maharashtra,Pune,Junnar(Otur),Beetroot,Other,Local,,500.0,1700.0,1100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.852332Z
+2026-11-20,Maharashtra,Pune,Junnar(Otur),Bhindi(Ladies Finger),Other,Local,,2000.0,4260.0,3100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.099909Z
+2026-11-20,Maharashtra,Pune,Junnar(Otur),Bitter gourd,Other,Local,,1000.0,3000.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.101391Z
+2026-11-20,Maharashtra,Pune,Junnar(Otur),Bottle gourd,Other,Local,,1000.0,2000.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.197726Z
+2026-11-20,Maharashtra,Pune,Junnar(Otur),Brinjal,Other,Local,,1000.0,2750.0,1800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.198310Z
+2026-11-20,Maharashtra,Pune,Junnar(Otur),Cabbage,Other,Local,,200.0,400.0,300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.945915Z
+2026-11-20,Maharashtra,Pune,Junnar(Otur),Cauliflower,Other,Local,,300.0,600.0,450.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.100419Z
+2026-11-20,Maharashtra,Pune,Junnar(Otur),Chilly Capsicum,Other,Local,,2000.0,4200.0,3100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.198106Z
+2026-11-20,Maharashtra,Pune,Junnar(Otur),Cucumbar(Kheera),Other,Local,,1000.0,2500.0,1750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.100910Z
+2026-11-20,Maharashtra,Pune,Junnar(Otur),Drumstick,Other,Local,,2000.0,5000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.946912Z
+2026-11-20,Maharashtra,Pune,Junnar(Otur),Green Chilli,Other,Local,,3000.0,5000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.002406Z
+2026-11-20,Maharashtra,Pune,Junnar(Otur),Green Peas,Other,Local,,4000.0,9000.0,6500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.945419Z
+2026-11-20,Maharashtra,Pune,Junnar(Otur),Guar,Other,Local,,4000.0,10000.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.197916Z
+2026-11-20,Maharashtra,Pune,Junnar(Otur),Little gourd(Kundru),Other,Local,,2000.0,3500.0,2700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.948025Z
+2026-11-20,Maharashtra,Pune,Junnar(Otur),Ridgeguard(Tori),Other,Local,,1000.0,2500.0,1750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.947534Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Bhindi(Ladies Finger),Other,Local,,2000.0,4000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.948492Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Bitter gourd,Other,Local,,2000.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.002878Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Bottle gourd,Other,Local,,1500.0,2500.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.102328Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Brinjal,Other,Local,,1000.0,3000.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.199130Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Cabbage,Other,Local,,400.0,600.0,500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.198557Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Carrot,Other,Local,,1500.0,2500.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.949440Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Cauliflower,Other,Local,,400.0,700.0,500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.948981Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Chilly Capsicum,Other,Local,,3000.0,6000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.103285Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Cucumbar(Kheera),Other,Local,,2000.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.853833Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Drumstick,Other,Local,,3000.0,6000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.198952Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Garlic,Other,Local,,9000.0,17000.0,14000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.003352Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Ginger(Green),Other,Local,,4000.0,6000.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.853090Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Green Chilli,Other,Local,,2000.0,4000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.199293Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Guar,Other,Local,,3000.0,6000.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.949903Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Methi(Leaves),Other,Local,,700.0,1200.0,1000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.198774Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Onion,Other,Local,,2000.0,4500.0,3800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.854570Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Peas Wet,Other,Local,,5000.0,6000.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.003827Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Potato,Other,Local,,1000.0,2000.0,1200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.101860Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Ridgeguard(Tori),Other,Local,,3000.0,5000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.950849Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Spinach,Other,Local,,500.0,900.0,700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.950373Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Sweet Potato,Other,Local,,2000.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.102813Z
+2026-11-20,Maharashtra,Pune,Khed(Chakan),Tomato,Other,Local,,1000.0,1600.0,1200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.951305Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Beans,Other,Local,,1700.0,2000.0,1850.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.103762Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Bhindi(Ladies Finger),Other,Local,,1500.0,2000.0,1750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.855236Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Bitter gourd,Other,Local,,1200.0,1700.0,1450.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.952219Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Bottle gourd,Other,Local,,600.0,1000.0,800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.855650Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Brinjal,Other,Local,,1300.0,1700.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.953201Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Cabbage,Other,Local,,500.0,900.0,700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.199836Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Carrot,Other,Local,,1300.0,1600.0,1450.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.856082Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Cauliflower,Other,Local,,600.0,900.0,750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.104237Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Chilly Capsicum,Other,Local,,1300.0,1700.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.004715Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Coriander(Leaves),Other,Local,,5.0,7.0,6.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.856725Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Cucumbar(Kheera),Other,Local,,1300.0,1700.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.200658Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Green Chilli,Other,Local,,1800.0,2000.0,1900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.953704Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Guar,Other,Local,,1600.0,2000.0,1800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.004270Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Onion,Local,Local,,1200.0,3000.0,2100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.951761Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Potato,Local,Local,,900.0,1200.0,1050.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.199668Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Ridgeguard(Tori),Other,Local,,1300.0,1700.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.005155Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Spinach,Other,Local,,4.0,6.0,5.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.952700Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Sweet Pumpkin,Other,Local,,700.0,1000.0,850.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.199483Z
+2026-11-20,Maharashtra,Pune,Pune(Khadiki),Tomato,Local,Local,,700.0,1300.0,1000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.200017Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Beans,Other,Local,,6000.0,8000.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.862504Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Bhindi(Ladies Finger),Other,Local,,4000.0,9000.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.007428Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Bitter gourd,Other,Local,,4000.0,5000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.107583Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Bottle gourd,Other,Local,,1000.0,2000.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.861300Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Brinjal,Other,Local,,2000.0,5000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.863665Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Cabbage,Other,Local,,300.0,600.0,400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.956533Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Carrot,Other,Local,,3000.0,5000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.202828Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Cauliflower,Other,Local,,600.0,1000.0,800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.202527Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Chilly Capsicum,Other,Local,,3000.0,5000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.205098Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Cucumbar(Kheera),Other,Local,,2000.0,5000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.863000Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Drumstick,Other,Local,,3000.0,5000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.007887Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Green Chilli,Other,Local,,3000.0,5000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.107774Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Green Peas,Other,Local,,7000.0,9000.0,8000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.106899Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Guar,Other,Local,,5000.0,10000.0,8000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.862019Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Guava,Other,Local,,3000.0,5000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.860565Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Onion,Local,Local,,2000.0,5000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.203497Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Onion Green,Other,Local,,6.0,12.0,8.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.204442Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Papaya,Other,Local,,1500.0,2500.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.107388Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Potato,Other,Local,,1400.0,1700.0,1600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.956085Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Raddish,Other,Local,,10.0,20.0,15.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.956969Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Rajgir,Other,Local,,5.0,8.0,6.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.205614Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Ridgeguard(Tori),Other,Local,,4000.0,8000.0,6000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.206085Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Seetapal,Other,Local,,3000.0,7000.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.955629Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Tomato,Other,Local,,1000.0,2000.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.957371Z
+2026-11-20,Maharashtra,Pune,Pune(Manjri),Water Melon,Other,Local,,1000.0,1300.0,1100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.107172Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Apple,Other,Local,,10000.0,20000.0,15000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.108151Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Banana,Other,Local,,2000.0,6000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.206543Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Beans,Other,Local,,5000.0,6000.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.867624Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Beetroot,Other,Local,,3000.0,3000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.108508Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Bhindi(Ladies Finger),Other,Local,,2000.0,2500.0,2250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.866882Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Bitter gourd,Other,Local,,3000.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.868380Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Bottle gourd,Other,Local,,3000.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.009486Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Brinjal,Other,Local,,2000.0,2500.0,2250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.010582Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Cabbage,Other,Local,,800.0,900.0,850.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.864489Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Carrot,Other,Local,,2000.0,2000.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.108701Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Cauliflower,Other,Local,,1000.0,1000.0,1000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.957773Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Chikoos(Sapota),Other,Local,,5000.0,5000.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.865338Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Chilly Capsicum,Other,Local,,4000.0,5000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.010208Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Cucumbar(Kheera),Other,Local,,4000.0,4000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.958198Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Drumstick,Other,Local,,5000.0,6000.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.208420Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Elephant Yam(Suran)/Amorphophallus,Other,Local,,2500.0,2500.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.869848Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Garlic,Other,Local,,8000.0,10000.0,9000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.108872Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Ginger(Green),Other,Local,,5000.0,6000.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.207956Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Grapes,Other,Local,,6000.0,6000.0,6000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.008371Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Green Chilli,Other,Local,,4000.0,6000.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.010769Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Guar,Other,Local,,8000.0,9000.0,8500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.009772Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Lime,Other,Local,,7000.0,8000.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.207006Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Little gourd(Kundru),Other,Local,,4500.0,4500.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.109242Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Methi(Leaves),Other,Local,,15.0,20.0,18.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.869105Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Mint(Pudina),Other,Local,,10.0,10.0,10.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.960007Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Mousambi(Sweet Lime),Other,Local,,4000.0,5000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.866135Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Onion,Local,Local,,2000.0,4500.0,3250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.958654Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Onion Green,Other,Local,,20.0,20.0,20.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.010007Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Orange,Other,Local,,4000.0,10000.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.009114Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Papaya,Other,Local,,2000.0,2500.0,2250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.207492Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Peas Wet,Other,Local,,8000.0,9000.0,8500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.209346Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Pointed gourd(Parval),Other,Local,,3000.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.959552Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Pomegranate,Other,Local,,10000.0,10000.0,10000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.107965Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Potato,Local,Local,,1000.0,1200.0,1100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.108335Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Ridgeguard(Tori),Other,Local,,3000.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.109034Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Spinach,Other,Local,,10.0,10.0,10.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.959099Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Sweet Potato,Other,Local,,3000.0,3000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.010393Z
+2026-11-20,Maharashtra,Pune,Pune(Moshi),Tomato,Local,Local,,1000.0,1200.0,1100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.208878Z
+2026-11-20,Maharashtra,Pune,Pune(Pimpri),Beetroot,Other,Local,,1400.0,1500.0,1450.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.891068Z
+2026-11-20,Maharashtra,Pune,Pune(Pimpri),Bottle gourd,Other,Local,,3000.0,3500.0,3250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.891550Z
+2026-11-20,Maharashtra,Pune,Pune(Pimpri),Brinjal,Other,Local,,4000.0,4000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.240162Z
+2026-11-20,Maharashtra,Pune,Pune(Pimpri),Cabbage,Other,Local,,600.0,800.0,700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.239713Z
+2026-11-20,Maharashtra,Pune,Pune(Pimpri),Cauliflower,Other,Local,,1200.0,1200.0,1200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.021282Z
+2026-11-20,Maharashtra,Pune,Pune(Pimpri),Coriander(Leaves),Other,Local,,9.0,11.0,10.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.983968Z
+2026-11-20,Maharashtra,Pune,Pune(Pimpri),Green Chilli,Other,Local,,3000.0,3000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.892452Z
+2026-11-20,Maharashtra,Pune,Pune(Pimpri),Onion,Local,Local,,4000.0,5000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.892012Z
+2026-11-20,Maharashtra,Pune,Pune(Pimpri),Tomato,Local,Local,,700.0,1500.0,1100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.132853Z
+2026-11-20,Maharashtra,Raigad,APMC Alibagh,Rice,Other,Local,,4000.0,4500.0,4250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.011788Z
+2026-11-20,Maharashtra,Raigad,APMC Mangaon,Rice,Other,Local,,1900.0,4800.0,3800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.272091Z
+2026-11-20,Maharashtra,Raigad,APMC Murud,Rice,Other,Local,,4000.0,4500.0,4250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.074016Z
+2026-11-20,Maharashtra,Raigad,APMC Panvel,Beans,Other,Local,,4000.0,5000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.960500Z
+2026-11-20,Maharashtra,Raigad,APMC Panvel,Bitter gourd,Other,Local,,3000.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.870580Z
+2026-11-20,Maharashtra,Raigad,APMC Panvel,Bottle gourd,Other,Local,,3000.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.109446Z
+2026-11-20,Maharashtra,Raigad,APMC Panvel,Cucumbar(Kheera),Other,Local,,4000.0,5000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.010960Z
+2026-11-20,Maharashtra,Raigad,APMC Panvel,Guar,Other,Local,,8000.0,9000.0,8500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.211120Z
+2026-11-20,Maharashtra,Raigad,APMC Panvel,Little gourd(Kundru),Other,Local,,3000.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.210332Z
+2026-11-20,Maharashtra,Raigad,APMC Panvel,Ridgeguard(Tori),Other,Local,,5000.0,6000.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.961249Z
+2026-11-20,Maharashtra,Raigad,APMC Panvel,Snakeguard,Other,Local,,2500.0,3000.0,2750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.011175Z
+2026-11-20,Maharashtra,Raigad,APMC Panvel,Tomato,Other,Local,,1500.0,2000.0,1750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.209857Z
+2026-11-20,Maharashtra,Ratnagiri,APMC Ratnagiri (Nachane),Bhindi(Ladies Finger),Other,Local,,6000.0,7000.0,6500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.963364Z
+2026-11-20,Maharashtra,Ratnagiri,APMC Ratnagiri (Nachane),Bitter gourd,Other,Local,,2500.0,3000.0,2800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.214348Z
+2026-11-20,Maharashtra,Ratnagiri,APMC Ratnagiri (Nachane),Brinjal,Other,Local,,1000.0,2000.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.871662Z
+2026-11-20,Maharashtra,Ratnagiri,APMC Ratnagiri (Nachane),Cabbage,Other,Local,,1000.0,1200.0,1100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.871441Z
+2026-11-20,Maharashtra,Ratnagiri,APMC Ratnagiri (Nachane),Carrot,Other,Local,,3500.0,4000.0,3700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.110976Z
+2026-11-20,Maharashtra,Ratnagiri,APMC Ratnagiri (Nachane),Cauliflower,Other,Local,,2500.0,3000.0,2800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.215685Z
+2026-11-20,Maharashtra,Ratnagiri,APMC Ratnagiri (Nachane),Chilly Capsicum,Other,Local,,4000.0,5000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.111181Z
+2026-11-20,Maharashtra,Ratnagiri,APMC Ratnagiri (Nachane),Cucumbar(Kheera),Other,Local,,3000.0,4500.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.013515Z
+2026-11-20,Maharashtra,Ratnagiri,APMC Ratnagiri (Nachane),French Beans(Frasbean),Other,Local,,6000.0,6500.0,6200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.215257Z
+2026-11-20,Maharashtra,Ratnagiri,APMC Ratnagiri (Nachane),Ginger(Green),Other,Local,,6000.0,6500.0,6300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.111576Z
+2026-11-20,Maharashtra,Ratnagiri,APMC Ratnagiri (Nachane),Green Chilli,Other,Local,,4000.0,5000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.111382Z
+2026-11-20,Maharashtra,Ratnagiri,APMC Ratnagiri (Nachane),Guar,Other,Local,,5000.0,6000.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.013319Z
+2026-11-20,Maharashtra,Ratnagiri,APMC Ratnagiri (Nachane),Tomato,Other,Local,,800.0,1100.0,900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.214818Z
+2026-11-20,Maharashtra,Sangli,APMC Aatpadi,Pomegranate,Other,Local,,1000.0,16000.0,8500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.220020Z
+2026-11-20,Maharashtra,Sangli,APMC Palus,Beans,Other,Local,,6000.0,7000.0,6500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.220450Z
+2026-11-20,Maharashtra,Sangli,APMC Palus,Bhindi(Ladies Finger),Other,Local,,4000.0,4500.0,4200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.966563Z
+2026-11-20,Maharashtra,Sangli,APMC Palus,Bitter gourd,Other,Local,,2500.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.873328Z
+2026-11-20,Maharashtra,Sangli,APMC Palus,Bottle gourd,Other,Local,,1000.0,1200.0,1100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.967028Z
+2026-11-20,Maharashtra,Sangli,APMC Palus,Cabbage,Other,Local,,700.0,900.0,800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.115127Z
+2026-11-20,Maharashtra,Sangli,APMC Palus,Green Chilli,Other,Local,,3500.0,4000.0,3700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.220878Z
+2026-11-20,Maharashtra,Sangli,APMC Palus,Ridgeguard(Tori),Other,Local,,3500.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.115586Z
+2026-11-20,Maharashtra,Sangli,APMC Palus,Tomato,Other,Local,,1000.0,1500.0,1200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.873540Z
+2026-11-20,Maharashtra,Sangli,APMC Sangli,Chili Red,Other,Local,,15000.0,27500.0,21250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.872227Z
+2026-11-20,Maharashtra,Sangli,APMC Sangli,Ground Nut Seed,Other,Local,,11800.0,14800.0,13300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.013719Z
+2026-11-20,Maharashtra,Sangli,APMC Sangli,Gur(Jaggery),Other,Local,,4550.0,5400.0,4975.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.013912Z
+2026-11-20,Maharashtra,Sangli,APMC Sangli,Jowar(Sorghum),Other,FAQ,,4023.0,5000.0,4512.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.216115Z
+2026-11-20,Maharashtra,Sangli,APMC Sangli,Maize,Other,FAQ,,3100.0,3300.0,3200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.216587Z
+2026-11-20,Maharashtra,Sangli,APMC Sangli,Rice,Other,Local,,5000.0,11000.0,8000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.963849Z
+2026-11-20,Maharashtra,Sangli,APMC Sangli,Soyabean,Other,Local,,6400.0,7200.0,6800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.964333Z
+2026-11-20,Maharashtra,Sangli,APMC Sangli,Turmeric,Rajapuri,Local,,19500.0,29000.0,24250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.872026Z
+2026-11-20,Maharashtra,Sangli,APMC Sangli,Wheat,Other,FAQ,,4000.0,5000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.871850Z
+2026-11-20,Maharashtra,Sangli,APMC Tasgaon,Bengal Gram(Gram)(Whole),Other,FAQ,,6040.0,6360.0,6270.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.219607Z
+2026-11-20,Maharashtra,Sangli,APMC Tasgaon,Jowar(Sorghum),Other,Local,,4300.0,4600.0,4460.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.965732Z
+2026-11-20,Maharashtra,Sangli,APMC Tasgaon,Maize,Other,FAQ,,2450.0,2650.0,2560.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.014113Z
+2026-11-20,Maharashtra,Sangli,APMC Tasgaon,Soyabean,Yellow,FAQ,,6400.0,6600.0,6500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.872954Z
+2026-11-20,Maharashtra,Sangli,APMC Tasgaon,Wheat,Other,FAQ,,3850.0,4000.0,3960.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.113503Z
+2026-11-20,Maharashtra,Sangli,APMC Vita,Bhindi(Ladies Finger),Other,Local,,3000.0,3500.0,3200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.114652Z
+2026-11-20,Maharashtra,Sangli,APMC Vita,Brinjal,Other,Local,,2500.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.873135Z
+2026-11-20,Maharashtra,Sangli,APMC Vita,Green Chilli,Other,Local,,4000.0,5000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.114027Z
+2026-11-20,Maharashtra,Sangli,APMC Vita,Tomato,Other,Local,,1000.0,1500.0,1200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.966154Z
+2026-11-20,Maharashtra,Sangli,Sangli(Miraj),Maize,Deshi Red,FAQ,,3100.0,3300.0,3200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.221713Z
+2026-11-20,Maharashtra,Sangli,"Sangli(Phale, Bhajipala Market)",Apple,Other,Local,,6000.0,11000.0,8500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.968498Z
+2026-11-20,Maharashtra,Sangli,"Sangli(Phale, Bhajipala Market)",Chikoos(Sapota),Other,Local,,3000.0,7500.0,5250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.873728Z
+2026-11-20,Maharashtra,Sangli,"Sangli(Phale, Bhajipala Market)",Guava,Other,Local,,1000.0,4000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.968025Z
+2026-11-20,Maharashtra,Sangli,"Sangli(Phale, Bhajipala Market)",Mousambi(Sweet Lime),Other,Local,,4000.0,6000.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.221293Z
+2026-11-20,Maharashtra,Sangli,"Sangli(Phale, Bhajipala Market)",Onion,Local,Local,,2000.0,4600.0,3300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.874285Z
+2026-11-20,Maharashtra,Sangli,"Sangli(Phale, Bhajipala Market)",Pineapple,Other,Local,,3000.0,6000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.967531Z
+2026-11-20,Maharashtra,Sangli,"Sangli(Phale, Bhajipala Market)",Pomegranate,Other,Local,,5000.0,20000.0,12500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.116038Z
+2026-11-20,Maharashtra,Sangli,"Sangli(Phale, Bhajipala Market)",Potato,Local,Local,,900.0,1700.0,1300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.874099Z
+2026-11-20,Maharashtra,Sangli,"Sangli(Phale, Bhajipala Market)",Water Melon,Other,Local,,500.0,2000.0,1250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.873909Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Beans,Other,Local,,2500.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.017348Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Beetroot,Other,Local,,2000.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.876382Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Bhindi(Ladies Finger),Other,Local,,4000.0,5000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.972158Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Bitter gourd,Other,Local,,2500.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.123523Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Brinjal,Other,Local,,1500.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.229865Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Cabbage,Other,Local,,500.0,800.0,600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.229033Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Carrot,Other,Local,,3000.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.122621Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Cauliflower,Other,Local,,800.0,1300.0,1000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.972595Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Chikoos(Sapota),Other,Local,,3800.0,6000.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.227335Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Chilly Capsicum,Other,Local,,2000.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.973519Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Cucumbar(Kheera),Other,Local,,1500.0,3500.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.017558Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Drumstick,Other,Local,,2000.0,3500.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.229451Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Ginger(Green),Other,Local,,4000.0,7000.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.228173Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Green Chilli,Other,Local,,3500.0,4500.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.124479Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Guar,Other,Local,,4500.0,9600.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.123067Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Lime,Other,Local,,4000.0,7000.0,5500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.227755Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Methi(Leaves),Other,Local,,10.0,13.0,11.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.973065Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Mousambi(Sweet Lime),Other,Local,,3000.0,4000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.876121Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Pomegranate,Other,Local,,7100.0,22500.0,11100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.017122Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Potato,Other,Local,,1500.0,1800.0,1700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.228591Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Spinach,Other,Local,,5.0,7.0,6.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.123983Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Tomato,Local,Local,,800.0,1500.0,1100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.017742Z
+2026-11-20,Maharashtra,Solapur,APMC Akluj,Water Melon,Other,Local,,500.0,800.0,700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.875912Z
+2026-11-20,Maharashtra,Solapur,APMC Barshi,Jowar(Sorghum),Other,Local,,4500.0,9000.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.222127Z
+2026-11-20,Maharashtra,Solapur,APMC Barshi,Soyabean,Other,Local,,7500.0,7600.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.222557Z
+2026-11-20,Maharashtra,Solapur,APMC Barshi,Wheat,Other,FAQ,,3100.0,4000.0,3100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.116529Z
+2026-11-20,Maharashtra,Solapur,APMC Dudhani,Bengal Gram(Gram)(Whole),Other,FAQ,,6900.0,7100.0,7100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.017939Z
+2026-11-20,Maharashtra,Solapur,APMC Dudhani,Black Gram(Urd Beans)(Whole),Other,FAQ,,9000.0,9870.0,9488.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.975807Z
+2026-11-20,Maharashtra,Solapur,APMC Dudhani,Black Gram(Urd Beans)(Whole),Other,Non-FAQ,,5800.0,5800.0,5800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.877092Z
+2026-11-20,Maharashtra,Solapur,APMC Dudhani,Jowar(Sorghum),Jowar ( White),Local,,4950.0,6820.0,5771.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.230399Z
+2026-11-20,Maharashtra,Solapur,APMC Dudhani,Maize,Other,FAQ,,3035.0,3035.0,3035.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.975320Z
+2026-11-20,Maharashtra,Solapur,APMC Dudhani,Red gram/Arhar/Tur(whole),Other,FAQ,,8500.0,10120.0,9702.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.125407Z
+2026-11-20,Maharashtra,Solapur,APMC Dudhani,Soyabean,Other,Local,,7305.0,7805.0,7665.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.976510Z
+2026-11-20,Maharashtra,Solapur,APMC Dudhani,Sunflower/Sunflower Seed,Other,Non-FAQ,,6680.0,7345.0,7162.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.977150Z
+2026-11-20,Maharashtra,Solapur,APMC Dudhani,Wheat,Maharashtra 2189,FAQ,,3105.0,3105.0,3105.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.974822Z
+2026-11-20,Maharashtra,Solapur,APMC Karmala,Maize,Other,FAQ,,2600.0,3070.0,2951.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.016117Z
+2026-11-20,Maharashtra,Solapur,APMC Karmala,Wheat,Other,FAQ,,3225.0,3225.0,3225.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.121251Z
+2026-11-20,Maharashtra,Solapur,APMC Mangal Wedha,Bhindi(Ladies Finger),Other,Local,,2500.0,5000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.971705Z
+2026-11-20,Maharashtra,Solapur,APMC Mangal Wedha,Bitter gourd,Other,Local,,2600.0,5000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.875661Z
+2026-11-20,Maharashtra,Solapur,APMC Mangal Wedha,Brinjal,Other,Local,,500.0,8000.0,5300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.226898Z
+2026-11-20,Maharashtra,Solapur,APMC Mangal Wedha,Cucumbar(Kheera),Other,Local,,1200.0,7100.0,4200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.121707Z
+2026-11-20,Maharashtra,Solapur,APMC Mangal Wedha,Green Chilli,Other,Local,,1500.0,4000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.122149Z
+2026-11-20,Maharashtra,Solapur,APMC Mangal Wedha,Onion,Local,Local,,600.0,6000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.226483Z
+2026-11-20,Maharashtra,Solapur,APMC Mangal Wedha,Ridgeguard(Tori),Other,Local,,2000.0,5000.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.016508Z
+2026-11-20,Maharashtra,Solapur,APMC Mangal Wedha,Tomato,Local,Local,,500.0,1500.0,1000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.016779Z
+2026-11-20,Maharashtra,Solapur,APMC Mohol,Maize,Deshi Red,Non-FAQ,,2000.0,2200.0,2100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.974096Z
+2026-11-20,Maharashtra,Solapur,APMC Sangola,Pomegranate,Other,Local,,4500.0,18500.0,11500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.015748Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Apple,Other,Local,,3000.0,7000.0,5000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.224213Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Beans,Other,Local,,2500.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.015071Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Beetroot,Other,Local,,1200.0,1700.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.014887Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Bhindi(Ladies Finger),Other,Local,,2000.0,7000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.969878Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Bitter gourd,Other,Local,,1000.0,4500.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.970802Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Brinjal,Other,Local,,600.0,4000.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.226068Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Cabbage,Other,Local,,250.0,450.0,350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.225214Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Carrot,Other,Local,,900.0,4500.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.120790Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Cauliflower,Other,Local,,400.0,880.0,640.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.970327Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Chikoos(Sapota),Other,Local,,1000.0,4000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.222981Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Chili Red,Other,Local,,13000.0,24000.0,17500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.120277Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Chilly Capsicum,Other,Local,,800.0,3000.0,1800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.971261Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Cucumbar(Kheera),Other,Local,,500.0,6000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.118817Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Green Chilli,Other,Local,,2000.0,4000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.875018Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Guar,Other,Local,,4000.0,8000.0,6000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.224735Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Guava,Other,Local,,1000.0,6000.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.014522Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Gur(Jaggery),Yellow,Local,,4401.0,5330.0,5189.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.968980Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Karbuja(Musk Melon),Other,Local,,500.0,1500.0,1000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.014706Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Lime,Other,Local,,1000.0,5500.0,3500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.117881Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Methi(Leaves),Other,Local,,400.0,800.0,600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.015252Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Onion,Red,Local,,500.0,6000.0,2950.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.119279Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Onion Green,Other,Local,,200.0,700.0,400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.119781Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Papaya,Other,Local,,1000.0,2500.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.223823Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Pomegranate,Other,Local,,1000.0,14000.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.223392Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Potato,Local,Local,,800.0,1200.0,1000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.118351Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Rice,Other,Local,,3795.0,7760.0,7630.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.014327Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Ridgeguard(Tori),Other,Local,,1000.0,6000.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.874661Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Seetapal,Other,Local,,1500.0,7500.0,4500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.969432Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Soyabean,Other,Local,,7000.0,7805.0,7580.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.874478Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Spinach,Other,Local,,250.0,500.0,350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.225640Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Tomato,Other,Local,,300.0,2000.0,1300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.874840Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Water Melon,Other,Local,,1000.0,2000.0,1500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.117443Z
+2026-11-20,Maharashtra,Solapur,APMC Solapur,Wheat,Sharbati,FAQ,,2780.0,4590.0,3740.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.116985Z
+2026-11-20,Maharashtra,Solapur,Barshi(Vairag),Soyabean,Other,Local,,7500.0,7500.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.124950Z
+2026-11-20,Maharashtra,Solapur,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",Onion,Other,Local,,500.0,5500.0,4000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.884961Z
+2026-11-20,Maharashtra,Solapur,"Perfect Krushi Market Yard, Tal Madha, Dist Solapur",Pomegranate,Other,Local,,1350.0,14800.0,9750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.885440Z
+2026-11-20,Maharashtra,Thane,APMC Murbad,Bhindi(Ladies Finger),Other,Local,,2000.0,3000.0,2500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.993280Z
+2026-11-20,Maharashtra,Thane,APMC Murbad,Bitter gourd,Other,Local,,1500.0,2500.0,2000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.993506Z
+2026-11-20,Maharashtra,Thane,APMC Murbad,Brinjal,Other,Local,,2500.0,3500.0,3000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.993699Z
+2026-11-20,Maharashtra,Wardha,APMC Arvi,Bengal Gram(Gram)(Whole),Other,FAQ,,6000.0,7200.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.018131Z
+2026-11-20,Maharashtra,Wardha,APMC Arvi,Cotton,H-4(A) 27mm FIne,FAQ,,9100.0,9300.0,9200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.126300Z
+2026-11-20,Maharashtra,Wardha,APMC Arvi,Soyabean,Yellow,FAQ,,6500.0,7780.0,7400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.978056Z
+2026-11-20,Maharashtra,Wardha,APMC Ashti,Soyabean,Yellow,FAQ,,7000.0,7655.0,7200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.018884Z
+2026-11-20,Maharashtra,Wardha,APMC Hinganghat,Bengal Gram(Gram)(Whole),Other,FAQ,,6500.0,7515.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.232166Z
+2026-11-20,Maharashtra,Wardha,APMC Hinganghat,Cotton,Other,FAQ,,9000.0,9435.0,9215.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.977577Z
+2026-11-20,Maharashtra,Wardha,APMC Hinganghat,Red gram/Arhar/Tur(whole),Other,FAQ,,9600.0,10650.0,10100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.232698Z
+2026-11-20,Maharashtra,Wardha,APMC Hinganghat,Soyabean,Yellow,FAQ,,7100.0,7850.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.125863Z
+2026-11-20,Maharashtra,Wardha,APMC Hinganghat,Wheat,Other,FAQ,,2700.0,3195.0,2900.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.231233Z
+2026-11-20,Maharashtra,Wardha,APMC Pulgaon,Cotton,Other,FAQ,,8800.0,9500.0,9250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.233201Z
+2026-11-20,Maharashtra,Wardha,APMC Pulgaon,Soyabean,Yellow,FAQ,,7175.0,7605.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.978505Z
+2026-11-20,Maharashtra,Wardha,APMC Samudrapur,Cotton,Other,Local,,9000.0,9350.0,9200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.878117Z
+2026-11-20,Maharashtra,Wardha,APMC Sindi,Bengal Gram(Gram)(Whole),Other,FAQ,,6500.0,6500.0,6500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.233675Z
+2026-11-20,Maharashtra,Wardha,APMC Sindi,Cotton,Other,FAQ,,9100.0,9375.0,9270.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.018305Z
+2026-11-20,Maharashtra,Wardha,APMC Sindi,Soyabean,Yellow,FAQ,,6895.0,7670.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.978947Z
+2026-11-20,Maharashtra,Wardha,APMC Wardha,Bengal Gram(Gram)(Whole),Other,FAQ,,7200.0,7490.0,7350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.979385Z
+2026-11-20,Maharashtra,Wardha,APMC Wardha,Cotton,Other,FAQ,,9000.0,9300.0,9150.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.018514Z
+2026-11-20,Maharashtra,Wardha,APMC Wardha,Red gram/Arhar/Tur(whole),Other,FAQ,,9700.0,9700.0,9700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.979831Z
+2026-11-20,Maharashtra,Wardha,APMC Wardha,Soyabean,Yellow,FAQ,,7405.0,7730.0,7550.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.126790Z
+2026-11-20,Maharashtra,Wardha,APMC Wardha,Wheat,Other,FAQ,,3010.0,3330.0,3250.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.018702Z
+2026-11-20,Maharashtra,Wardha,Ashti(Karanja),Soyabean,Yellow,FAQ,,7400.0,7655.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.021451Z
+2026-11-20,Maharashtra,Wardha,"Sai Agro Infratrade Pvt Agri Market, Dist Wardha",Cotton,LRA,Local,,9100.0,9250.0,9226.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.238350Z
+2026-11-20,Maharashtra,Wardha,"Sai Agro Infratrade Pvt Agri Market, Dist Wardha",Soyabean,Other,Local,,7350.0,7500.0,7408.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.885987Z
+2026-11-20,Maharashtra,Wardha,Sindi (Selu),Bengal Gram(Gram)(Whole),Other,FAQ,,6800.0,7200.0,7000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.893269Z
+2026-11-20,Maharashtra,Wardha,Sindi (Selu),Cotton,Other,FAQ,,9100.0,9500.0,9300.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.892861Z
+2026-11-20,Maharashtra,Wardha,Sindi (Selu),Red gram/Arhar/Tur(whole),Other,FAQ,,8705.0,8705.0,8705.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.023155Z
+2026-11-20,Maharashtra,Wardha,Sindi (Selu),Soyabean,Yellow,FAQ,,7200.0,7750.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.273541Z
+2026-11-20,Maharashtra,Wardha,Sindi (Selu),Wheat,Other,FAQ,,2615.0,2850.0,2715.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.022638Z
+2026-11-20,Maharashtra,Washim,APMC Karanja,Bengal Gram(Gram)(Whole),Other,FAQ,,6455.0,7340.0,7135.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.127283Z
+2026-11-20,Maharashtra,Washim,APMC Karanja,Green Gram(Moong)(Whole),Other,Non-FAQ,,7350.0,7895.0,7350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.980299Z
+2026-11-20,Maharashtra,Washim,APMC Karanja,Red gram/Arhar/Tur(whole),Other,FAQ,,9510.0,10300.0,10000.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.127744Z
+2026-11-20,Maharashtra,Washim,APMC Karanja,Soyabean,Other,Local,,7655.0,8100.0,7705.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.128206Z
+2026-11-20,Maharashtra,Washim,APMC Karanja,Wheat,Other,FAQ,,2675.0,3160.0,2970.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.234163Z
+2026-11-20,Maharashtra,Washim,APMC Risod,Soyabean,Other,Local,,7400.0,7800.0,7600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.234638Z
+2026-11-20,Maharashtra,Washim,APMC Washim,Green Gram(Moong)(Whole),Other,Non-FAQ,,6500.0,7300.0,6800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.980763Z
+2026-11-20,Maharashtra,Washim,APMC Washim,Red gram/Arhar/Tur(whole),Other,FAQ,,9200.0,9900.0,9500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.235103Z
+2026-11-20,Maharashtra,Washim,APMC Washim,Soyabean,Yellow,FAQ,,7200.0,8000.0,7600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.235566Z
+2026-11-20,Maharashtra,Washim,Washim(Ansing),Bengal Gram(Gram)(Whole),Average (Whole),FAQ,,7000.0,7350.0,7200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.128705Z
+2026-11-20,Maharashtra,Washim,Washim(Ansing),Red gram/Arhar/Tur(whole),Other,FAQ,,9900.0,10000.0,9950.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.236519Z
+2026-11-20,Maharashtra,Washim,Washim(Ansing),Soyabean,Yellow,FAQ,,7650.0,7850.0,7750.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.129175Z
+2026-11-20,Maharashtra,Washim,Washim(Ansing),Wheat,Maharashtra 2189,FAQ,,3250.0,3450.0,3350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.236037Z
+2026-11-20,Maharashtra,Yavatmal,APMC APMC Bori Arab,Soyabean,Yellow,FAQ,,7585.0,7680.0,7600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.982251Z
+2026-11-20,Maharashtra,Yavatmal,APMC Babhulgaon,Soyabean,Yellow,FAQ,,7101.0,7660.0,7401.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.019567Z
+2026-11-20,Maharashtra,Yavatmal,APMC Digras,Bengal Gram(Gram)(Whole),Average (Whole),FAQ,,7185.0,7265.0,7245.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.236960Z
+2026-11-20,Maharashtra,Yavatmal,APMC Digras,Red gram/Arhar/Tur(whole),Other,FAQ,,9780.0,9898.0,9835.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.237409Z
+2026-11-20,Maharashtra,Yavatmal,APMC Digras,Soyabean,Yellow,FAQ,,7700.0,7800.0,7775.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.131035Z
+2026-11-20,Maharashtra,Yavatmal,APMC Digras,Wheat,Other,FAQ,,3130.0,3435.0,3285.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.879717Z
+2026-11-20,Maharashtra,Yavatmal,APMC Ghatanji,Cotton,LRA,FAQ,,9000.0,9350.0,9150.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.019051Z
+2026-11-20,Maharashtra,Yavatmal,APMC Ghatanji,Soyabean,Yellow,FAQ,,7000.0,7570.0,7350.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.129628Z
+2026-11-20,Maharashtra,Yavatmal,APMC Pandhakawada,Soyabean,Yellow,FAQ,,7315.0,7455.0,7400.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.130087Z
+2026-11-20,Maharashtra,Yavatmal,APMC Pusad,Bengal Gram(Gram)(Whole),Other,FAQ,,6975.0,7195.0,7095.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.815023Z
+2026-11-20,Maharashtra,Yavatmal,APMC Pusad,Black Gram(Urd Beans)(Whole),Other,FAQ,,8200.0,9000.0,8210.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.026042Z
+2026-11-20,Maharashtra,Yavatmal,APMC Pusad,Green Gram(Moong)(Whole),Other,Non-FAQ,,8095.0,8095.0,8095.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.899522Z
+2026-11-20,Maharashtra,Yavatmal,APMC Pusad,Red gram/Arhar/Tur(whole),Other,FAQ,,9400.0,9935.0,9790.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.134732Z
+2026-11-20,Maharashtra,Yavatmal,APMC Pusad,"Sesamum(Sesame,Gingelly,Til)",Other,FAQ,,13500.0,13500.0,13500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.242461Z
+2026-11-20,Maharashtra,Yavatmal,APMC Ralegaon,Cotton,Other,Local,,9000.0,9410.0,9200.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.982852Z
+2026-11-20,Maharashtra,Yavatmal,APMC Umarkhed,Soyabean,Yellow,FAQ,,6700.0,6900.0,6800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.019400Z
+2026-11-20,Maharashtra,Yavatmal,APMC Vani,Soyabean,Yellow,FAQ,,7400.0,7670.0,7500.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.130580Z
+2026-11-20,Maharashtra,Yavatmal,APMC Yavatmal,Red gram/Arhar/Tur(whole),Other,FAQ,,9565.0,10030.0,9797.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.981392Z
+2026-11-20,Maharashtra,Yavatmal,APMC Yavatmal,Soyabean,Yellow,FAQ,,6900.0,7895.0,7397.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.019213Z
+2026-11-20,Maharashtra,Yavatmal,APMC Yavatmal,Wheat,Other,FAQ,,2700.0,2950.0,2825.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.878956Z
+2026-11-20,Maharashtra,Yavatmal,"Jagdamba Agrocare Pvt Ltd, Pandharkawada, Dist Yeotmal",Cotton,Other,Local,,8800.0,9150.0,9100.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.887484Z
+2026-11-20,Maharashtra,Yavatmal,"Mahavira Agricare Pvt Ltd, Lalguda, Wani, Dist Yevatmal",Cotton,Other,Local,,8900.0,9060.0,9027.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.238806Z
+2026-11-20,Maharashtra,Yavatmal,"Mahavira Agricare Pvt Ltd, Lalguda, Wani, Dist Yevatmal",Soyabean,Yellow,Local,,7400.0,7600.0,7521.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.886761Z
+2026-11-20,Maharashtra,Yavatmal,"Mahesh Krushi Utpanna Bazar, Digras, Dist Yeotmal",Soyabean,Other,Local,,4500.0,7800.0,7559.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.888950Z
+2026-11-20,Maharashtra,Yavatmal,"Mahesh Krushi Utpanna Bazar, Digras, Dist Yeotmal",Wheat,Other,Local,,2700.0,2700.0,2700.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.239258Z
+2026-11-20,Maharashtra,Yavatmal,"Ramdev Krushi Bazaar, Digras road, Manora, Dist Washim",Red gram/Arhar/Tur(whole),Other,Local,,5500.0,5700.0,5600.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:57.888233Z
+2026-11-20,Maharashtra,Yavatmal,"Ramdev Krushi Bazaar, Digras road, Manora, Dist Washim",Soyabean,Other,Local,,7500.0,8000.0,7920.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.131927Z
+2026-11-20,Maharashtra,Yavatmal,"Shekari Krushi Khajgi Bazar, Arni, Dist Yavatmal",Soyabean,Yellow,Local,,7000.0,8151.0,7800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.212095Z
+2026-11-20,Maharashtra,Yavatmal,"Shekari Krushi Khajgi Bazar, Arni, Dist Yavatmal",Wheat,Other,Local,,2201.0,2201.0,2201.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.021614Z
+2026-11-20,Maharashtra,Yavatmal,Umarked(Danki),Soyabean,Yellow,FAQ,,6700.0,6900.0,6800.0,data.gov.in / AGMARKNET API,2026-11-20T18:29:58.019737Z
